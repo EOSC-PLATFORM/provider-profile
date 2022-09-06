@@ -27,6 +27,7 @@ We welcome your comments and suggestions.
 You can provide us feedback using the following channels:
 
 SUGGESTIONS:
+
 * by contribution to our feedback document under https://docs.google.com/document/d/abcdefghijklmnopqrstuvwxyz/edit
   (no account is needed)
 * by creating an `issue in the github repository <https://github.com/EOSC-PLATFORM/provider-profile/issues>`_ or `EOSC-Portal Helpdesk <https://eosc-helpdesk.eosc-portal.eu>`_ (you need to have a github account)
