@@ -47,7 +47,7 @@ extensions = [
 templates_path = ['_templates']
 
 # The root document.
-root_doc = 'index.rst'
+root_doc = 'index'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
