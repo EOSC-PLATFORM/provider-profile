@@ -76,12 +76,6 @@ pygments_style = 'sphinx'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_context = {
-    'css_files': [
-        '_static/eosc_overrides.css',  # overrides for wide tables in RTD theme
-    ],
-}
-
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'EOSCproviderProfile'
 
