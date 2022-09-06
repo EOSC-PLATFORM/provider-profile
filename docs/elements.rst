@@ -1,13 +1,12 @@
 
 
 .. list-table:: EOSC Provider Profile Elements
-   :widths: 25 50
+   :widths: 10 60
    :header-rows: 1
 
    * - Element name
      - Description
-  
-   * - alternativeIdentifier 
+   * - alternativeIdentifier
      - Alternate Identifier description.
    * - catalogue 
      - Bundle description.
