@@ -19,14 +19,3 @@ Accompanying artefacts
 * XML Schema: `<schemas/provider-profile_v4.xsd>`_
 * Examples: map at `<docs/_illustrations/OpenAIRE-examples-map.png>`_, files at `<samples/>`_
 
-
-Contributing
-~~~~~~~~~~~~
-
-Your feedback is important for us. You can provide us feedback using the following channels:
-
-SUGGESTIONS:
-* by contribution to our feedback document under https://docs.google.com/document/d/abcdefghijklmnopqrstuvwxyz/edit
-  (no account is needed)
-* by creating an `issue in the github repository <https://github.com/EOSC-PLATFORM/provider-profile/issues>`_ or `EOSC-Portal Helpdesk <https://eosc-helpdesk.eosc-portal.eu>`_ (you need to have a github account)
-* by sending an e-mail: helpdesk@eosc-portal.eu
