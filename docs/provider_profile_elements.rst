@@ -1,4 +1,4 @@
-EOSC Provider Profiles
-======================
+EOSC Provider Profile
+=====================
 
 .. include:: elements.rst
