@@ -5,14 +5,13 @@
     <xsl:output method="xml" omit-xml-declaration="yes"/>
     <xsl:template match="/">
 
-        .. list-table:: EOSC Provider Profile Elements of complexType="service"
+        .. list-table:: EOSC Provider Profile Elements of complexType="catalogue"
         :widths: 25 50
         :header-rows: 1
 
         * - Element name
         - Description
-        - Minimum Occurrence
-        <xsl:for-each select="//xs:complexType[@name='service']/*/*/*">
+        <xsl:for-each select="//xs:complexType[@name='catalogue']/*/*/*">
 
             <xsl:choose>
                 <xsl:when test="xs:documentation">
@@ -20,10 +19,8 @@
                     <xsl:value-of select='../@name'/>
                     -
                     <xsl:value-of select='normalize-space(xs:documentation)'/>
-
                     -
                     <xsl:value-of select='../@minOccurs'/>
-
                 </xsl:when>
             </xsl:choose>
 
