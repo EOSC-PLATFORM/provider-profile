@@ -8,7 +8,6 @@ Welcome to EOSC - Provider PROFILE documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    introduction
    provider_profile_elements
