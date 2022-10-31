@@ -2,6 +2,9 @@
 
         .. _catalogue:
 
+        Catalogue
+        =========
+
         .. list-table:: EOSC Provider Profile Elements of "catalogue"
         :widths: 25 50
         :header-rows: 1
@@ -10,147 +13,75 @@
           - Description
           - Required
         
-                    * -
-                    abbreviation
-                    -
-                    An abbreviation of the (Multi-Provider Regional or Thematic) Catalogue Name.
-                    -
+                    * - abbreviation
+                      - An abbreviation of the (Multi-Provider Regional or Thematic) Catalogue Name.
+                      - Mandatory
                     
-                        Mandatory
+                    * - affiliations
+                      - Catalogues that are members or affiliated or associated with other organisations should list those organisations here.
+                      - Optional
                     
-                    * -
-                    affiliations
-                    -
-                    Catalogues that are members or affiliated or associated with other organisations should list those organisations here.
-                    -
+                    * - description
+                      - A high-level description of the Catalogue in fairly non-technical terms, with the vision, mission, objectives, background, experience.
+                      - Mandatory
                     
-                        Optional
+                    * - hostingLegalEntity
+                      - Name of the organisation legally hosting (housing) the Catalogue or its coordinating centre.
+                      - Optional
                     
-                    * -
-                    description
-                    -
-                    A high-level description of the Catalogue in fairly non-technical terms, with the vision, mission, objectives, background, experience.
-                    -
+                    * - id
+                      - A persistent identifier, a unique reference to the (Multi-Provider Regional or Thematic) Catalogue in the context of the EOSC Portal.
+                      - Mandatory
                     
-                        Mandatory
+                    * - legalEntity
+                      - A Y/N question to define whether the (Multi-Provider Regional or Thematic) Catalogue is owned by a Legal Entity or not.
+                      - Mandatory
                     
-                    * -
-                    hostingLegalEntity
-                    -
-                    Name of the organisation legally hosting (housing) the Catalogue or its coordinating centre.
-                    -
+                    * - legalStatus
+                      - Legal status of the (Multi-Provider Regional or Thematic ) Catalogue Owner. The legal status is usually noted in the registration act/statutes. For independent legal entities (1) - legal status of the Catalogue. For embedded Catalogues (2) - legal status of the hosting legal entity. It is also possible to select Not a legal entity.
+                      - Optional
                     
-                        Optional
+                    * - location
+                      - Physical location of the Catalogue.
+                      - Mandatory
                     
-                    * -
-                    id
-                    -
-                    A persistent identifier, a unique reference to the (Multi-Provider Regional or Thematic) Catalogue in the context of the EOSC Portal.
-                    -
+                    * - logo
+                      - Link to the logo/visual identity of the Catalogue.
+                      - Mandatory
                     
-                        Mandatory
+                    * - mainContact
+                      - Catalogue's main contact info.
+                      - Mandatory
                     
-                    * -
-                    legalEntity
-                    -
-                    A Y/N question to define whether the (Multi-Provider Regional or Thematic) Catalogue is owned by a Legal Entity or not.
-                    -
+                    * - multimedia
+                      - Link to video, slideshow, photos, screenshots with details of the Provider.
+                      - Optional
                     
-                        Mandatory
+                    * - name
+                      - Full Name of the (Multi-Provider Regional or Thematic) Catalogue.
+                      - Mandatory
                     
-                    * -
-                    legalStatus
-                    -
-                    Legal status of the (Multi-Provider Regional or Thematic ) Catalogue Owner. The legal status is usually noted in the registration act/statutes. For independent legal entities (1) - legal status of the Catalogue. For embedded Catalogues (2) - legal status of the hosting legal entity. It is also possible to select Not a legal entity.
-                    -
+                    * - networks
+                      - Catalogues that are members of networks should list those networks here.
+                      - Optional
                     
-                        Optional
+                    * - participatingCountries
+                      - Catalogues that are funded/supported by several countries should list here all supporting countries (including the Coordinating country).
+                      - Optional
                     
-                    * -
-                    location
-                    -
-                    Physical location of the Catalogue.
-                    -
+                    * - publicContacts
+                      - List of the Catalogue's public contacts info.
+                      - Mandatory
                     
-                        Mandatory
+                    * - scientificDomains
+                      - A named group of providers that offer access to the same type of resource or capabilities.
+                      - Optional
                     
-                    * -
-                    logo
-                    -
-                    Link to the logo/visual identity of the Catalogue.
-                    -
+                    * - tags
+                      - Keywords associated to the Catalogue to simplify search by relevant keywords.
+                      - Optional
                     
-                        Mandatory
-                    
-                    * -
-                    mainContact
-                    -
-                    Catalogue's main contact info.
-                    -
-                    
-                        Mandatory
-                    
-                    * -
-                    multimedia
-                    -
-                    Link to video, slideshow, photos, screenshots with details of the Provider.
-                    -
-                    
-                        Optional
-                    
-                    * -
-                    name
-                    -
-                    Full Name of the (Multi-Provider Regional or Thematic) Catalogue.
-                    -
-                    
-                        Mandatory
-                    
-                    * -
-                    networks
-                    -
-                    Catalogues that are members of networks should list those networks here.
-                    -
-                    
-                        Optional
-                    
-                    * -
-                    participatingCountries
-                    -
-                    Catalogues that are funded/supported by several countries should list here all supporting countries (including the Coordinating country).
-                    -
-                    
-                        Optional
-                    
-                    * -
-                    publicContacts
-                    -
-                    List of the Catalogue's public contacts info.
-                    -
-                    
-                        Mandatory
-                    
-                    * -
-                    scientificDomains
-                    -
-                    A named group of providers that offer access to the same type of resource or capabilities.
-                    -
-                    
-                        Optional
-                    
-                    * -
-                    tags
-                    -
-                    Keywords associated to the Catalogue to simplify search by relevant keywords.
-                    -
-                    
-                        Optional
-                    
-                    * -
-                    website
-                    -
-                    Website with information about the (Multi-Provider Regional or Thematic) Catalogue.
-                    -
-                    
-                        Mandatory
+                    * - website
+                      - Website with information about the (Multi-Provider Regional or Thematic) Catalogue.
+                      - Mandatory
                     
