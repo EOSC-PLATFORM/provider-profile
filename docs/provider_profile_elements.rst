@@ -1,4 +1,9 @@
 EOSC Provider Profile
 =====================
 
-.. include:: elements.rst
+.. toctree::
+   :maxdepth: 1
+
+   elementsCatalogue
+   elementsProvider
+   elementsService

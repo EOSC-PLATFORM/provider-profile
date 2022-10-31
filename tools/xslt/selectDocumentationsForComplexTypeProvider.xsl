@@ -10,7 +10,8 @@
         :header-rows: 1
 
         * - Element name
-        - Description
+          - Description
+          - Required
         <xsl:for-each select="//xs:complexType[@name='provider']/*/*/*">
 
             <xsl:choose>
@@ -20,7 +21,13 @@
                     -
                     <xsl:value-of select='normalize-space(xs:documentation)'/>
                     -
-                    <xsl:value-of select='../@minOccurs'/>
+                    <xsl:if test="(count(../@minOccurs) > 0) and (../@minOccurs = 0)">
+                        Optional
+                    </xsl:if>
+                    <xsl:if test="(count(../@minOccurs) = 0)">
+                        Mandatory
+                    </xsl:if>
+                    <!-- xsl:value-of select='../@minOccurs'/ -->
                 </xsl:when>
             </xsl:choose>
 
