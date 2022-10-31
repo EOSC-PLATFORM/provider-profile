@@ -1,6 +1,8 @@
 
 
-        .. list-table:: EOSC Provider Profile Elements of complexType="service"
+        .. _service:
+
+        .. list-table:: EOSC Provider Profile Elements of "service"
         :widths: 25 50
         :header-rows: 1
 

@@ -5,7 +5,9 @@
     <xsl:output method="xml" omit-xml-declaration="yes"/>
     <xsl:template match="/">
 
-        .. list-table:: EOSC Provider Profile Elements of complexType="provider"
+        .. _provider:
+
+        .. list-table:: EOSC Provider Profile Elements of "provider"
         :widths: 25 50
         :header-rows: 1
 
