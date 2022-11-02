@@ -15,21 +15,12 @@ Provider
 
    * - Element name
      - Description
-     - Required
-        <xsl:for-each select="//xs:complexType[@name='provider']/*/*/*">
-
-            <xsl:choose>
-                <xsl:when test="xs:documentation">
+     - Required<xsl:for-each select="//xs:complexType[@name='provider']/*/*/*"><xsl:choose><xsl:when test="xs:documentation">
    * - <xsl:value-of select='../@name'/>
      - <xsl:value-of select='normalize-space(xs:documentation)'/>
-                    <xsl:if test="(count(../@minOccurs) > 0) and (../@minOccurs = 0)">
-     - Optional
-                    </xsl:if>
-                    <xsl:if test="(count(../@minOccurs) = 0)">
-     - Mandatory
-                    </xsl:if>
-                    <!-- xsl:value-of select='../@minOccurs'/ -->
-                </xsl:when>
+        <xsl:if test="(count(../@minOccurs) > 0) and (../@minOccurs = 0)">
+     - Optional</xsl:if><xsl:if test="(count(../@minOccurs) = 0)">
+     - Mandatory</xsl:if>                    <!-- xsl:value-of select='../@minOccurs'/ --></xsl:when>
             </xsl:choose>
 
 
