@@ -5,7 +5,7 @@ Catalogue
 =========
 
 .. list-table:: EOSC Provider Profile Elements of "catalogue"
-   :widths: 25 50
+   :widths: 25 50 10
    :header-rows: 1
 
    * - Element name

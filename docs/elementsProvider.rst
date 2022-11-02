@@ -5,7 +5,7 @@ Provider
 ========
 
 .. list-table:: EOSC Provider Profile Elements of "provider"
-   :widths: 25 50
+   :widths: 25 50 10
    :header-rows: 1
 
    * - Element name
