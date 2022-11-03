@@ -1,4 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
+<!-- 2022 , Bielefeld University Library , Andreas Czerniak, Sabeel Shah -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -15,7 +16,7 @@ Catalogue
 
    * - Element name
      - Description
-     - Required<xsl:for-each select="//xs:complexType[@name='catalogue']/*/*/*"><xsl:choose><xsl:when test="xs:documentation">
+     - Required<xsl:for-each select="//xs:complexType[@name='catalogue']//*"><xsl:choose><xsl:when test="xs:documentation">
    * - <xsl:value-of select='../@name'/>
      - <xsl:value-of select='normalize-space(xs:documentation)'/>
         <xsl:if test="(count(../@minOccurs) > 0) and (../@minOccurs = 0)">
