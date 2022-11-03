@@ -6,6 +6,8 @@ The following sections of Provider, Service, and Catalogue provide detailed info
 .. toctree::
    :maxdepth: 1
 
+   elementsCatalogue
+   elementsDatasource
    elementsProvider
    elementsService
-   elementsCatalogue
+
