@@ -4,6 +4,11 @@
 Service
 =======
 
+Specialization
+~~~~~~~~~~~~~~
+* :ref:`datasource` profile.
+
+
 .. list-table:: EOSC Provider Profile Elements of "service"
    :widths: 25 50 10
    :header-rows: 1
