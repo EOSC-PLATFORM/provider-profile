@@ -8,9 +8,6 @@ Resource Providers, Service Providers, Data (Source) Providers, Service Develope
 Research Infrastructures, Distributed Research Infrastructures, Resource Aggregators,
 Thematic Clouds, Regional Clouds, etc.
 
-More definitions `here <https://confluence.egi.eu/display/EOSCEN/EOSC+Definitions>`_.
-(Source: https://wiki.eoscfuture.eu/display/PUBLIC/A.+v4.00+EOSC+Provider+Profile )
-
 Versions
 ^^^^^^^^
 
