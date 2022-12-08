@@ -8,6 +8,9 @@ Specialization
 ~~~~~~~~~~~~~~
 * :ref:`datasource` profile.
 
+.. toctree::
+   :glob:
+   service/*
 
 .. list-table:: EOSC Provider Profile Elements of "service"
    :widths: 25 50 10
