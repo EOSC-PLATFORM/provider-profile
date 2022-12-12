@@ -1,5 +1,6 @@
-import requests
 
+import requests
+#print("hello again")
 #TODO: add method parameter so that vocabulary can be fetcthed by type
 def getVocabularies():
     response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/SCIENTIFIC_DOMAIN')
@@ -9,5 +10,8 @@ def getVocabularies():
     for jsonObject in data:
         scientific_subdomain.append(jsonObject['name'])
 
-    # print(scientific_subdomain)
+    print(scientific_subdomain)
     return scientific_subdomain
+
+if __name__ == '__main__':
+    getVocabularies()
