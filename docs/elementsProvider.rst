@@ -81,7 +81,7 @@ Provider
      - List of the Provider's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities.
+     - A named group of providers that offer access to the same type of resource or capabilities. **Vocabulary**:  ['Agricultural Sciences', 'Engineering & Technology', 'Generic', 'Humanities', 'Medical & Health Sciences', 'Natural Sciences', 'Other', 'Social Sciences']
      - Optional
    * - societalGrandChallenges
      - Provider’s participation in the Grand Societal Challenges defined by the European Commission.
