@@ -130,7 +130,7 @@ Service
      - The name(s) (or abbreviation(s)) of Provider(s) that manage or deliver the Resource in federated scenarios.
      - Optional
    * - scientificDomains
-     - The branch of science, scientific discipline that is related to the Resource.
+     - The branch of science, scientific discipline that is related to the Resource. **Vocabulary**:  ['Agricultural Sciences', 'Engineering & Technology', 'Generic', 'Humanities', 'Medical & Health Sciences', 'Natural Sciences', 'Other', 'Social Sciences']
      - Mandatory
    * - securityContactEmail
      - The email to contact the Provider for critical security issues about this Resource.
@@ -230,7 +230,7 @@ Catalogue
      - List of the Catalogue's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities.
+     - A named group of providers that offer access to the same type of resource or capabilities. **Vocabulary**:  ['Agricultural Sciences', 'Engineering & Technology', 'Generic', 'Humanities', 'Medical & Health Sciences', 'Natural Sciences', 'Other', 'Social Sciences']
      - Optional
    * - tags
      - Keywords associated to the Catalogue to simplify search by relevant keywords.
