@@ -1,17 +1,39 @@
 
 import requests
-#print("hello again")
-#TODO: add method parameter so that vocabulary can be fetcthed by type
-def getVocabularies():
-    response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/SCIENTIFIC_DOMAIN')
+import xmlschema
+path = "C:/Users/csabe/PycharmProjects/EOSC_Platform_Provider-Profile/docs/vocabularies/"
+
+'''
+getting types for the vocabularies from schema2.xsd, from  <xs:simpleType name="vocab">
+'''
+schema = xmlschema.XMLSchema("C:/Users/csabe/PycharmProjects/EOSC_Platform_Provider-Profile/schemas/schema2.xsd")
+vocabularyTitles = schema.simple_types[6].enumeration
+
+
+
+def getVocabularies(vocabularyTitle):
+    response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     # print(response_API.status_code)
     data = response_API.json()
-    scientific_subdomain = []
+    listOfVocabularies = []
     for jsonObject in data:
-        scientific_subdomain.append(jsonObject['name'])
+        listOfVocabularies.append(jsonObject['name'])
 
-    print(scientific_subdomain)
-    return scientific_subdomain
+   # print(listOfVocabularies)
+    return listOfVocabularies
+
+
+def writeVocabulariesToFiles():
+    for vocabularyTitle in vocabularyTitles:
+        listOfVocabularies = getVocabularies(vocabularyTitle)
+        # create a empty text file
+        fileName = vocabularyTitle + '.rst'
+        completeName = path + fileName
+        fp = open(completeName, 'w', encoding="utf-8")
+        #fp.write(''.join(str(x) for x in listOfVocabularies))
+        fp.write(str(getVocabularies(vocabularyTitle)))
+        fp.close()
+
 
 if __name__ == '__main__':
-    getVocabularies()
+    writeVocabulariesToFiles()
