@@ -1,0 +1,1 @@
+['Biological & Medical Sciences', 'Chemistry & Material Sciences', 'Earth & Environmental Sciences', 'Engineering & Energy', 'Humanities & Arts', 'Information Science & Technology', 'Other', 'Physics, Astronomy, Astrophysics and Mathematics', 'Social Sciences']

@@ -1,0 +1,1 @@
+['Alpha', 'Beta', 'Concept', 'Design', 'Discovery', 'Implementation', 'In containment', 'Operation', 'Other', 'Planned', 'Preparation', 'Production', 'Retirement', 'Termination']

@@ -1,0 +1,1 @@
+['Fully Open Access', 'Open Access', 'Order Required', 'Other']

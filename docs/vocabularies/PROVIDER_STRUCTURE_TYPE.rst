@@ -1,0 +1,1 @@
+['Distributed', 'Mobile', 'Other', 'Single-sited', 'Virtual']
