@@ -11,8 +11,7 @@ Welcome to EOSC - PROFILE documentation
    :maxdepth: 1
 
    introduction
-   provider_profile_elements
-   implementation
+   elementsProvider
 
 Indices and tables
 ==================
