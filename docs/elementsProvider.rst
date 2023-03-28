@@ -4,6 +4,9 @@
 Provider
 ========
 
+The following sections of Provider provide detailed information on the elements.
+
+
 .. list-table:: EOSC Provider Profile Elements of "provider"
    :widths: 25 50 10
    :header-rows: 1
@@ -60,7 +63,7 @@ Provider
      - Provider's main contact info.
      - Mandatory
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification.
+     - MERIL scientific domain / subdomain classification. **Vocabulary**: ['Biological & Medical Sciences', 'Chemistry & Material Sciences', 'Earth & Environmental Sciences', 'Engineering & Energy', 'Humanities & Arts', 'Information Science & Technology', 'Other', 'Physics, Astronomy, Astrophysics and Mathematics', 'Social Sciences']
      - Optional
    * - multimedia
      - Link to video, slideshow, photos, screenshots with details of the Provider.
@@ -81,7 +84,7 @@ Provider
      - List of the Provider's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities.
+     - A named group of providers that offer access to the same type of resource or capabilities. **Vocabulary**:  ['Agricultural Sciences', 'Engineering & Technology', 'Generic', 'Humanities', 'Medical & Health Sciences', 'Natural Sciences', 'Other', 'Social Sciences']
      - Optional
    * - societalGrandChallenges
      - Provider’s participation in the Grand Societal Challenges defined by the European Commission.

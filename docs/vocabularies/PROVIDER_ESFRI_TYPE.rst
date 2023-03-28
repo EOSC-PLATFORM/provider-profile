@@ -1,0 +1,1 @@
+['Landmark', 'Node', 'Not ESFRI', 'Other', 'Project']

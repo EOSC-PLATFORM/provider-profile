@@ -26,8 +26,8 @@ if not on_rtd:
 # -- Project information -----------------------------------------------------
 
 project = 'EOSC - Provider PROFILE'
-copyright = '2022, EOSC provider profile team'
-author = 'EOSC provider profile team'
+copyright = '2022, EOSC'
+author = 'EOSC profile strategy team'
 
 # The full version, including alpha/beta/rc tags
 release = '4.0'
@@ -96,7 +96,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'EOSCproviderProfiles.tex', u'EOSC Provider profiles',
+  ('index', 'EOSCproviderProfile.tex', u'EOSC Provider profile',
    u'European Open Science Cloud', 'manual'),
 ]
 
@@ -106,8 +106,8 @@ latex_documents = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'EOSCproviderProfiles', u'EOSC Provider Profiles',
-   u'EOSC', 'EOSCproviderProfiles', 'One line description of project.',
+  ('index', 'EOSCproviderProfile', u'EOSC Provider Profile',
+   u'EOSC', 'EOSCproviderProfile', 'One line description of project.',
    'Miscellaneous'),
 ]
 
