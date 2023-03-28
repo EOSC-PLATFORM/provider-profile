@@ -1,0 +1,1 @@
+['Applied Research', 'Basic Research', 'Other', 'Technological Development']
