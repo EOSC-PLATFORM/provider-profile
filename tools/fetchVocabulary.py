@@ -1,23 +1,26 @@
 
 import requests
 import xmlschema
-path = "C:/Users/csabe/PycharmProjects/EOSC_Platform_Provider-Profile/docs/vocabularies/"
+from tabulate import tabulate
+
+path = "../docs/vocabularies/"
 
 '''
 getting types for the vocabularies from schema2.xsd, from  <xs:simpleType name="vocab">
 '''
-schema = xmlschema.XMLSchema("C:/Users/csabe/PycharmProjects/EOSC_Platform_Provider-Profile/schemas/schema2.xsd")
+schema = xmlschema.XMLSchema("../schemas/schema2.xsd")
 vocabularyTitles = schema.simple_types[6].enumeration
 
 
 
 def getVocabularies(vocabularyTitle):
+    print('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     # print(response_API.status_code)
     data = response_API.json()
-    listOfVocabularies = []
+    listOfVocabularies = [tuple(('ID', 'Name'))]
     for jsonObject in data:
-        listOfVocabularies.append(jsonObject['name'])
+        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'])))
 
    # print(listOfVocabularies)
     return listOfVocabularies
@@ -30,8 +33,13 @@ def writeVocabulariesToFiles():
         fileName = vocabularyTitle + '.rst'
         completeName = path + fileName
         fp = open(completeName, 'w', encoding="utf-8")
-        #fp.write(''.join(str(x) for x in listOfVocabularies))
-        fp.write(str(getVocabularies(vocabularyTitle)))
+        fp.write(".. _"+vocabularyTitle.lower()+":\n\n")
+        fp.write(tabulate(listOfVocabularies, headers='firstrow', tablefmt='rst'))
+
+#        fp.write(''.join(str(x) for x in listOfVocabularies))
+#        for line in listOfVocabularies:
+#            print(*line)
+#        fp.write(str(getVocabularies(vocabularyTitle)))
         fp.close()
 
 

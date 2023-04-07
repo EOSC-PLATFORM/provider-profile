@@ -1,1 +1,11 @@
-['Free', 'Free Conditionally', 'Other', 'Paid', 'Peer Reviewed']
+.. _access_mode:
+
+==============================  ==================
+ID                              Name
+==============================  ==================
+access_mode-free                Free
+access_mode-free_conditionally  Free Conditionally
+access_mode-other               Other
+access_mode-paid                Paid
+access_mode-peer_reviewed       Peer Reviewed
+==============================  ==================
