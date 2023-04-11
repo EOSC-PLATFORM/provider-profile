@@ -63,7 +63,7 @@ The following sections of Provider provide detailed information on the elements.
      - Provider's main contact info.
      - Mandatory
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification. Vocabulary: MERIL_SCIENTIFIC_DOMAIN_.
+     - MERIL scientific domain / subdomain classification. :doc:`Vocabulary <_vocabularies/MERIL_SCIENTIFIC_DOMAIN>`.
      - Optional
    * - multimedia
      - Link to video, slideshow, photos, screenshots with details of the Provider.
@@ -84,7 +84,7 @@ The following sections of Provider provide detailed information on the elements.
      - List of the Provider's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities. (`Vocabulary <vocabularies/SCIENTIFIC_DOMAIN.rst>`)
+     - A named group of providers that offer access to the same type of resource or capabilities. :doc:`Vocabulary <_vocabularies/SCIENTIFIC_DOMAIN>`.
      - Optional
    * - societalGrandChallenges
      - Provider’s participation in the Grand Societal Challenges defined by the European Commission.
@@ -100,5 +100,3 @@ The following sections of Provider provide detailed information on the elements.
      - Mandatory
 
 
-..  _MERIL_SCIENTIFIC_DOMAIN: _vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN.rst
-..  _PROVIDER_ESFRI_DOMAIN: _vocabularies/PROVIDER_ESFRI_DOMAIN.rst
