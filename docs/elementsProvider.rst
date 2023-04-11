@@ -33,7 +33,7 @@ The following sections of Provider provide detailed information on the elements.
      - A high-level description of the Provider in fairly non-technical terms, with the vision, mission, objectives, background, experience.
      - Mandatory
    * - esfriDomains
-     - ESFRI domain classification.  .. _provider_esfri_domain:: vocabularies/PROVIDER_ESFRI_DOMAIN.rst
+     - ESFRI domain classification.  PROVIDER_ESFRI_DOMAIN_.
      - Optional
    * - esfriType
      - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark.
@@ -100,4 +100,5 @@ The following sections of Provider provide detailed information on the elements.
      - Mandatory
 
 
-..  _MERIL_SCIENTIFIC_DOMAIN: vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN.rst
+..  _MERIL_SCIENTIFIC_DOMAIN: _vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN.rst
+..  _PROVIDER_ESFRI_DOMAIN: _vocabularies/PROVIDER_ESFRI_DOMAIN.rst

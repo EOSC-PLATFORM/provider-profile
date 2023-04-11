@@ -3,7 +3,7 @@ import requests
 import xmlschema
 from tabulate import tabulate
 
-path = "../docs/vocabularies/"
+path = "../docs/_vocabularies/"
 
 '''
 getting types for the vocabularies from schema2.xsd, from  <xs:simpleType name="vocab">
