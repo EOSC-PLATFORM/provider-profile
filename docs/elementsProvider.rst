@@ -33,7 +33,7 @@ The following sections of Provider provide detailed information on the elements.
      - A high-level description of the Provider in fairly non-technical terms, with the vision, mission, objectives, background, experience.
      - Mandatory
    * - esfriDomains
-     - ESFRI domain classification. (Vocabulary: access_mode_)
+     - ESFRI domain classification. (`Vocabulary: <vocabularies/PROVIDER_ESFRI_DOMAIN.rst>`_)
      - Optional
    * - esfriType
      - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark.
@@ -63,7 +63,7 @@ The following sections of Provider provide detailed information on the elements.
      - Provider's main contact info.
      - Mandatory
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification. **Vocabulary**: ['Biological & Medical Sciences', 'Chemistry & Material Sciences', 'Earth & Environmental Sciences', 'Engineering & Energy', 'Humanities & Arts', 'Information Science & Technology', 'Other', 'Physics, Astronomy, Astrophysics and Mathematics', 'Social Sciences']
+     - MERIL scientific domain / subdomain classification. (`Vocabulary <vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN.rst>`_)
      - Optional
    * - multimedia
      - Link to video, slideshow, photos, screenshots with details of the Provider.
@@ -84,7 +84,7 @@ The following sections of Provider provide detailed information on the elements.
      - List of the Provider's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities. (Vocabulary: scientific_domains_)
+     - A named group of providers that offer access to the same type of resource or capabilities. (`Vocabulary <vocabularies/SCIENTIFIC_DOMAIN.rst>`)
      - Optional
    * - societalGrandChallenges
      - Provider’s participation in the Grand Societal Challenges defined by the European Commission.
