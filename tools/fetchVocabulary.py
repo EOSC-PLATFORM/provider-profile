@@ -34,6 +34,11 @@ def writeVocabulariesToFiles():
         completeName = path + fileName
         fp = open(completeName, 'w', encoding="utf-8")
         fp.write(".. _"+vocabularyTitle.lower()+":\n\n")
+        fp.write(vocabularyTitle.upper().replace('_',' ')+"\n")
+        i = 0
+        for i in range(0, len(vocabularyTitle)):
+            fp.write("=")
+        fp.write("\n\n")
         fp.write(tabulate(listOfVocabularies, headers='firstrow', tablefmt='rst'))
 
 #        fp.write(''.join(str(x) for x in listOfVocabularies))
