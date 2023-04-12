@@ -11,8 +11,6 @@ getting types for the vocabularies from schema2.xsd, from  <xs:simpleType name="
 schema = xmlschema.XMLSchema("../schemas/schema2.xsd")
 vocabularyTitles = schema.simple_types[5].enumeration
 
-
-
 def getVocabularies(vocabularyTitle):
     print('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)

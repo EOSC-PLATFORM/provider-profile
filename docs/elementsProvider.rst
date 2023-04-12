@@ -38,7 +38,7 @@ Provider
      - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark. :doc:`Vocabulary <_vocabularies/PROVIDER_ESFRI_TYPE>`.
      - N
    * - hostingLegalEntity
-     - Name of the organisation/institution legally hosting (housing) the provider/research infrastructure or its coordinating centre. A distinction is made between: (1) research infrastructures that are self-standing and have a defined and distinct legal entity, (2) research infrastructures that are embedded into another institution which is a legal entity (such as a university, a research organisation, etc.). If (1) - name of the research infrastructure, If (2) - name of the hosting organisation.
+     - Name of the organisation/institution legally hosting (housing) the provider/research infrastructure or its coordinating centre. A distinction is made between: (1) research infrastructures that are self-standing and have a defined and distinct legal entity, (2) research infrastructures that are embedded into another institution which is a legal entity (such as a university, a research organisation, etc.). If (1) - name of the research infrastructure, If (2) - name of the hosting organisation. :doc:`Vocabulary <_vocabularies/PROVIDER_HOSTING_LEGAL_ENTITY>`.
      - N
    * - id
      - A persistent identifier, a unique reference to the Provider in the context of the EOSC Portal.
