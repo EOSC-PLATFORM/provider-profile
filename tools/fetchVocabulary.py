@@ -18,9 +18,9 @@ def getVocabularies(vocabularyTitle):
     response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     # print(response_API.status_code)
     data = response_API.json()
-    listOfVocabularies = [tuple(('ID', 'Name'))]
+    listOfVocabularies = [tuple(('ID', 'Name', 'Description'))]
     for jsonObject in data:
-        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'])))
+        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'],jsonObject['name'])))
 
    # print(listOfVocabularies)
     return listOfVocabularies

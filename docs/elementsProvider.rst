@@ -62,7 +62,7 @@ Provider
      - Provider's main contact info.
      - Y
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification. Vocabularies: :doc:`Domain <_vocabularies/MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/MERIL_SCIENTIFIC_SUBDOMAIN>`.
+     - MERIL scientific domain / subdomain classification. Vocabularies: :doc:`Domain <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_SUBDOMAIN>`.
      - N
    * - multimedia
      - Link to video, slideshow, photos, screenshots with details of the Provider.
