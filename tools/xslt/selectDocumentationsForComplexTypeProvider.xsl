@@ -20,19 +20,23 @@ Provider
 
    * - Element name
      - Description
-     - Required<xsl:for-each select="//xs:complexType[@name='provider']//*"><xsl:choose><xsl:when test="xs:documentation">
+     - Mandatory<xsl:for-each select="//xs:complexType[@name='provider']//*"><xsl:choose><xsl:when test="xs:documentation">
    * - <xsl:value-of select='../@name'/>
      - <xsl:value-of select='normalize-space(xs:documentation)'/>
-        <xsl:if test="../@name='areasOfActivity'">:doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_AREA_OF_ACTIVITY<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='esfriDomains'">:doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_ESFRI_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='lifeCycleStatus'">:doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_LIFE_CYCLE_STATUS<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='merilScientificDomains'">Vocabularies: :doc:`Domain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/MERIL_SCIENTIFIC_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>` / :doc:`Subdomain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/MERIL_SCIENTIFIC_SUBDOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='networks'">:doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_NETWORK<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='scientificDomains'">Vocabularies: :doc:`Domain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/SCIENTIFIC_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>` / :doc:`Subdomain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/SCIENTIFIC_SUBDOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
-        <xsl:if test="../@name='societalGrandChallenges'">:doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_SOCIETAL_GRAND_CHALLENGE<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='areasOfActivity'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_AREA_OF_ACTIVITY<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='esfriDomains'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_ESFRI_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='esfriType'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_ESFRI_TYPE<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='legalStatus'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_LEGAL_STATUS<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='lifeCycleStatus'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_LIFE_CYCLE_STATUS<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='location'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/COUNTRY<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='merilScientificDomains'"> Vocabularies: :doc:`Domain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>` / :doc:`Subdomain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_MERIL_SCIENTIFIC_SUBDOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='networks'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_NETWORK<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='scientificDomains'"> Vocabularies: :doc:`Domain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/SCIENTIFIC_DOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>` / :doc:`Subdomain <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/SCIENTIFIC_SUBDOMAIN<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='societalGrandChallenges'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_SOCIETAL_GRAND_CHALLENGE<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
+        <xsl:if test="../@name='structureTypes'"> :doc:`Vocabulary <xsl:value-of disable-output-escaping="yes" select="string('&lt;')"/>_vocabularies/PROVIDER_STRUCTURE_TYPE<xsl:value-of disable-output-escaping="yes" select="string('&gt;')"/>`.</xsl:if>
         <xsl:if test="(count(../@minOccurs) > 0) and (../@minOccurs = 0)">
-     - Optional</xsl:if><xsl:if test="(count(../@minOccurs) = 0)">
-     - Mandatory</xsl:if>                    <!-- xsl:value-of select='../@minOccurs'/ --></xsl:when>
+     - N</xsl:if><xsl:if test="(count(../@minOccurs) = 0)">
+     - Y</xsl:if>                    <!-- xsl:value-of select='../@minOccurs'/ --></xsl:when>
             </xsl:choose>
         </xsl:for-each>
 

@@ -3,136 +3,136 @@
 FUNDING BODY
 ============
 
-==========================  =====================================================================================================  =====================================================================================================
+==========================  =====================================================================================================  ==============
 ID                          Name                                                                                                   Description
-==========================  =====================================================================================================  =====================================================================================================
-funding_body-ademe          Agency for Environment and Energy Management (ADEME)                                                   Agency for Environment and Energy Management (ADEME)
-funding_body-af             Arcadia Fund                                                                                           Arcadia Fund
-funding_body-ahrc           Arts and Humanities Research Council (AHRC)                                                            Arts and Humanities Research Council (AHRC)
-funding_body-aka            Academy of Finland (AKA)                                                                               Academy of Finland (AKA)
-funding_body-ancs           National Authority for Scientific Research (ANCS)                                                      National Authority for Scientific Research (ANCS)
-funding_body-anr            French National Research Agency (ANR)                                                                  French National Research Agency (ANR)
-funding_body-apvv           Research and Development Agency (APVV)                                                                 Research and Development Agency (APVV)
-funding_body-arc            Australian Research Council (ARC)                                                                      Australian Research Council (ARC)
-funding_body-arrs           Slovenian Research Agency (ARRS)                                                                       Slovenian Research Agency (ARRS)
-funding_body-awi            Alfred Wegener Institute for Polar and Marine Research (AWI)                                           Alfred Wegener Institute for Polar and Marine Research (AWI)
-funding_body-bbsrc          Biotechnology and Biological Sciences Research Council (BBSRC)                                         Biotechnology and Biological Sciences Research Council (BBSRC)
-funding_body-bf             Belmont Forum (BF)                                                                                     Belmont Forum (BF)
-funding_body-bmbf           Federal Ministry of Education and Research (BMBF)                                                      Federal Ministry of Education and Research (BMBF)
-funding_body-caixa          La Caixa Foundation (CAIXA)                                                                            La Caixa Foundation (CAIXA)
-funding_body-cdti           Center for Industrial Technological Development (CDTI)                                                 Center for Industrial Technological Development (CDTI)
-funding_body-cea            Alternative Energies and Atomic Energy Commission (CEA)                                                Alternative Energies and Atomic Energy Commission (CEA)
-funding_body-cihr           Canadian Institutes of Health Research (CIHR)                                                          Canadian Institutes of Health Research (CIHR)
-funding_body-cncsis         National University Research Council (CNCSIS) - Romania                                                National University Research Council (CNCSIS) - Romania
-funding_body-cnes           National Centre for Space Studies (CNES)                                                               National Centre for Space Studies (CNES)
-funding_body-cnpq           National Council for Scientific and Technological Development (CNPq)                                   National Council for Scientific and Technological Development (CNPq)
-funding_body-cnr            National Research Council (CNR)                                                                        National Research Council (CNR)
-funding_body-cnrs           National Centre for Scientific Research (CNRS)                                                         National Centre for Scientific Research (CNRS)
-funding_body-csf            Croatian Science Foundation (CSF)                                                                      Croatian Science Foundation (CSF)
-funding_body-csic           Spanish National Research Council (CSIC)                                                               Spanish National Research Council (CSIC)
-funding_body-dashe          Danish Agency for Science and Higher Education (DASHE)                                                 Danish Agency for Science and Higher Education (DASHE)
-funding_body-dasti          Danish Agency for Science, Technology and Innovation (DASTI)                                           Danish Agency for Science, Technology and Innovation (DASTI)
-funding_body-ddf            The Danish Council for Independent Research (DDF)                                                      The Danish Council for Independent Research (DDF)
-funding_body-dff            Danish Council for Independent Research (DFF)                                                          Danish Council for Independent Research (DFF)
-funding_body-dfg            German Research Foundation (DFG)                                                                       German Research Foundation (DFG)
-funding_body-dgo6           General Operational Directorate for Economy, Employment and Research (DGO6)                            General Operational Directorate for Economy, Employment and Research (DGO6)
-funding_body-dlr            German Aerospace Center (DLR)                                                                          German Aerospace Center (DLR)
-funding_body-dnrf           Danish National Research Foundation (DNRF)                                                             Danish National Research Foundation (DNRF)
-funding_body-eaer           Federal Department of Economic Affairs, Education and Research (EAER)                                  Federal Department of Economic Affairs, Education and Research (EAER)
-funding_body-ec             European Commission (EC)                                                                               European Commission (EC)
-funding_body-epsrc          Engineering and Physical Sciences Research Council (EPSRC)                                             Engineering and Physical Sciences Research Council (EPSRC)
-funding_body-esa            European Space Agency (ESA)                                                                            European Space Agency (ESA)
-funding_body-esrc           Economic and Social Research Council (ESRC)                                                            Economic and Social Research Council (ESRC)
-funding_body-etag           Estonian Research Council (ETAG)                                                                       Estonian Research Council (ETAG)
-funding_body-fapesp         São Paulo Research Foundation (FAPESP)                                                                 São Paulo Research Foundation (FAPESP)
-funding_body-fct            Foundation for Science and Technology (FCT)                                                            Foundation for Science and Technology (FCT)
-funding_body-ffg            Austrian Research Promotion Agency (FFG)                                                               Austrian Research Promotion Agency (FFG)
-funding_body-fnp            Foundation for Polish Science (FNP)                                                                    Foundation for Polish Science (FNP)
-funding_body-fnr            National Research Fund (FNR)                                                                           National Research Fund (FNR)
-funding_body-fnrs           Fonds National de la Recherche Scientifique (FNRS)                                                     Fonds National de la Recherche Scientifique (FNRS)
-funding_body-fom            Foundation for Fundamental Research on Matter (FOM)                                                    Foundation for Fundamental Research on Matter (FOM)
-funding_body-forte          Swedish Research Council for Health, Working Life and Welfare (FORTE)                                  Swedish Research Council for Health, Working Life and Welfare (FORTE)
-funding_body-fts            Fritz Thyssen Foundation (FTS)                                                                         Fritz Thyssen Foundation (FTS)
-funding_body-fwf            Austrian Science Fund (FWF)                                                                            Austrian Science Fund (FWF)
-funding_body-fwo            Research Foundation Flanders (FWO)                                                                     Research Foundation Flanders (FWO)
-funding_body-gacr           Czech Science Foundation (GACR)                                                                        Czech Science Foundation (GACR)
-funding_body-gsrt           General Secretariat for Research and Technology (GSRT)                                                 General Secretariat for Research and Technology (GSRT)
-funding_body-ifd            Innovation Fund Denmark (IFD)                                                                          Innovation Fund Denmark (IFD)
-funding_body-ifremer        French Research Institute for Exploitation of the Sea (IFREMER)                                        French Research Institute for Exploitation of the Sea (IFREMER)
-funding_body-imsr           Innovation Fund of the Ministry of Economy of the Slovak Republic (IMSR)                               Innovation Fund of the Ministry of Economy of the Slovak Republic (IMSR)
-funding_body-innoviris      Brussels Institute for Research and Innovation (INNOVIRIS)                                             Brussels Institute for Research and Innovation (INNOVIRIS)
-funding_body-inra           National institute of Agricultural Research (INRA)                                                     National institute of Agricultural Research (INRA)
-funding_body-inserm         National Institute of Health and Medical Research (INSERM)                                             National Institute of Health and Medical Research (INSERM)
-funding_body-ipev           French Polar Institute (IPEV)                                                                          French Polar Institute (IPEV)
-funding_body-irc            Irish Research Council (IRC)                                                                           Irish Research Council (IRC)
-funding_body-isc            International Science Council (ISC)                                                                    International Science Council (ISC)
-funding_body-isciii         Carlos III Health Institute (ISCIII)                                                                   Carlos III Health Institute (ISCIII)
-funding_body-isf            Israel Science Foundation (ISF)                                                                        Israel Science Foundation (ISF)
-funding_body-iwt            Agency for Innovation by Science and Technology (IWT)                                                  Agency for Innovation by Science and Technology (IWT)
-funding_body-jsps           Japanese Society for the Promotion of Science (JSPS)                                                   Japanese Society for the Promotion of Science (JSPS)
-funding_body-jst            Japanese Science and Technology Agency (JST)                                                           Japanese Science and Technology Agency (JST)
-funding_body-kaws           Knut and Alice Wallenberg Foundation (KAWS)                                                            Knut and Alice Wallenberg Foundation (KAWS)
-funding_body-kks            Knowledge Foundation (KKS)                                                                             Knowledge Foundation (KKS)
-funding_body-lmt            Research Council of Lithuania (LMT)                                                                    Research Council of Lithuania (LMT)
-funding_body-mcst           Malta Council for Science and Technology (MCST)                                                        Malta Council for Science and Technology (MCST)
-funding_body-mecr           Ministry for Education and Scientific Research (MECR)                                                  Ministry for Education and Scientific Research (MECR)
-funding_body-mesr           Ministry of Higher Education and Research (MESR)                                                       Ministry of Higher Education and Research (MESR)
-funding_body-mestd          Ministry of Education, Science and Technological Development of Republic of Serbia (MESTD)             Ministry of Education, Science and Technological Development of Republic of Serbia (MESTD)
-funding_body-meys           Ministry of Education, Youth and Sports of the Czech Republic (MEYS)                                   Ministry of Education, Youth and Sports of the Czech Republic (MEYS)
-funding_body-mgrt           Ministry for Economic Development and Technology (MGRT)                                                Ministry for Economic Development and Technology (MGRT)
-funding_body-mineco         Ministry for Economy and Competitveness (MINECO)                                                       Ministry for Economy and Competitveness (MINECO)
-funding_body-mistra         Swedish Foundation for Strategic Environmental Research (MISTRA)                                       Swedish Foundation for Strategic Environmental Research (MISTRA)
-funding_body-mita           Agency for Science, Innovation and Technology (MITA)                                                   Agency for Science, Innovation and Technology (MITA)
-funding_body-miur           Ministry for Education, University and Research (MIUR)                                                 Ministry for Education, University and Research (MIUR)
-funding_body-most           Ministry of Science and Technology of the People's Republic of China (MOST)                            Ministry of Science and Technology of the People's Republic of China (MOST)
-funding_body-mpg            Max Planck Society for the Advancement of Science (MPG)                                                Max Planck Society for the Advancement of Science (MPG)
-funding_body-mrc            Medical Research Council (MRC)                                                                         Medical Research Council (MRC)
-funding_body-mse            Ministry of Science and Education Republic of Croatia (MSE)                                            Ministry of Science and Education Republic of Croatia (MSE)
-funding_body-msvvas_sr      The Ministry of Education, Science, Research and Sports of the Slovak Republic (MSVVaS SR)             The Ministry of Education, Science, Research and Sports of the Slovak Republic (MSVVaS SR)
-funding_body-nasa           National Aeronautics and Space Administration (NASA)                                                   National Aeronautics and Space Administration (NASA)
-funding_body-ncbir          National Centre for Research and Development (NCBiR)                                                   National Centre for Research and Development (NCBiR)
-funding_body-ncn            National Science Center (NCN)                                                                          National Science Center (NCN)
-funding_body-nerc           Natural Environment Research Council (NERC)                                                            Natural Environment Research Council (NERC)
-funding_body-nhmrc          National Health and Medical Research Council (NHMRC)                                                   National Health and Medical Research Council (NHMRC)
-funding_body-nig            National Institutes of Health (NIG)                                                                    National Institutes of Health (NIG)
-funding_body-nkfia          National Research, Development and Innovation Fund (NKFIA)                                             National Research, Development and Innovation Fund (NKFIA)
-funding_body-nrf            National Research Foundation (NRF)                                                                     National Research Foundation (NRF)
-funding_body-nserc          Natural Sciences and Engineering Research Council of Canada (NSERC)                                    Natural Sciences and Engineering Research Council of Canada (NSERC)
-funding_body-nsf            National Science Foundation (NSF)                                                                      National Science Foundation (NSF)
-funding_body-nwo            Netherlands Organisation for Scientific Research (NWO)                                                 Netherlands Organisation for Scientific Research (NWO)
-funding_body-oeaw           Austrian Academy of Sciences (OeAW)                                                                    Austrian Academy of Sciences (OeAW)
-funding_body-oenfte         National Foundation for Research, Technology and Development (OeNFTE)                                  National Foundation for Research, Technology and Development (OeNFTE)
-funding_body-onera          French National Aerospace Research Center (ONERA)                                                      French National Aerospace Research Center (ONERA)
-funding_body-other          Other                                                                                                  Other
-funding_body-rannis         Icelandic Centre for Research (RANNIS)                                                                 Icelandic Centre for Research (RANNIS)
-funding_body-rcn            Research Council of Norway (RCN)                                                                       Research Council of Norway (RCN)
-funding_body-rcuk           Research Council UK (RCUK)                                                                             Research Council UK (RCUK)
-funding_body-rj             The Swedish Foundation for Humanities and Social Sciences (RJ)                                         The Swedish Foundation for Humanities and Social Sciences (RJ)
-funding_body-rpf            Research Promotion Foundation (RPF)                                                                    Research Promotion Foundation (RPF)
-funding_body-sea            Swedish Energy Agency (SEA)                                                                            Swedish Energy Agency (SEA)
-funding_body-sepa           Swedish Environmental Protection Agency (SEPA)                                                         Swedish Environmental Protection Agency (SEPA)
-funding_body-sfi            Science Foundation Ireland (SFI)                                                                       Science Foundation Ireland (SFI)
-funding_body-sgpi           Secretariat-General for Investment (SGPI)                                                              Secretariat-General for Investment (SGPI)
-funding_body-snf            Swiss National Science Foundation (SNF)                                                                Swiss National Science Foundation (SNF)
-funding_body-snsb           Swedish National Space Board (SNSB)                                                                    Swedish National Space Board (SNSB)
-funding_body-srcf           Swedish Reseach Council Formas (SRCF)                                                                  Swedish Reseach Council Formas (SRCF)
-funding_body-srsa           Swedish Radiation Safety Authority (SRSA)                                                              Swedish Radiation Safety Authority (SRSA)
-funding_body-ssf            Swedish Foundation for Strategic Research (SSF)                                                        Swedish Foundation for Strategic Research (SSF)
-funding_body-sshrc          Social Sciences and Humanities Research Council (SSHRC)                                                Social Sciences and Humanities Research Council (SSHRC)
-funding_body-stfc           Science and Technology Facilities Council (STFC)                                                       Science and Technology Facilities Council (STFC)
-funding_body-stw            Technology Foundation (STW)                                                                            Technology Foundation (STW)
-funding_body-tacr           Technology Agency of the Czech Republic (TACR)                                                         Technology Agency of the Czech Republic (TACR)
-funding_body-tara           Tara Expeditions Foundation (TARA)                                                                     Tara Expeditions Foundation (TARA)
-funding_body-tekes          Finnish Funding Agency for Technology and Innovation (TEKES)                                           Finnish Funding Agency for Technology and Innovation (TEKES)
-funding_body-tubitak        Scientific and Technological Research Council of Turkey (TUBITAK)                                      Scientific and Technological Research Council of Turkey (TUBITAK)
-funding_body-uefiscdi_cncs  Executive Agency for Higher Education, Research, Development and Innovation Funding (UEFISCDI - CNCS)  Executive Agency for Higher Education, Research, Development and Innovation Funding (UEFISCDI - CNCS)
-funding_body-ukri           UK Research and Innovation (UKRI)                                                                      UK Research and Innovation (UKRI)
-funding_body-vega           Scientific Grant Agency (VEGA)                                                                         Scientific Grant Agency (VEGA)
-funding_body-viaa           State Education Development Agency (VIAA)                                                              State Education Development Agency (VIAA)
-funding_body-vinnova        Swedish Governmental Agency for Innovation Systems (VINNOVA)                                           Swedish Governmental Agency for Innovation Systems (VINNOVA)
-funding_body-vlaio          Flanders Innovation & Entrepeneurship (VLAIO)                                                          Flanders Innovation & Entrepeneurship (VLAIO)
-funding_body-vr             Swedish Research Council (VR)                                                                          Swedish Research Council (VR)
-funding_body-vs             Volkswagen Foundation (VS)                                                                             Volkswagen Foundation (VS)
-funding_body-wt             Wellcome trust (WT)                                                                                    Wellcome trust (WT)
-funding_body-wwtf           Vienna Science and Technology Fund (WWTF)                                                              Vienna Science and Technology Fund (WWTF)
-==========================  =====================================================================================================  =====================================================================================================
+==========================  =====================================================================================================  ==============
+funding_body-ademe          Agency for Environment and Energy Management (ADEME)                                                   France
+funding_body-af             Arcadia Fund                                                                                           Czechia
+funding_body-ahrc           Arts and Humanities Research Council (AHRC)                                                            United Kingdom
+funding_body-aka            Academy of Finland (AKA)                                                                               Finland
+funding_body-ancs           National Authority for Scientific Research (ANCS)                                                      Romania
+funding_body-anr            French National Research Agency (ANR)                                                                  France
+funding_body-apvv           Research and Development Agency (APVV)                                                                 Slovakia
+funding_body-arc            Australian Research Council (ARC)                                                                      Australia
+funding_body-arrs           Slovenian Research Agency (ARRS)                                                                       Slovenia
+funding_body-awi            Alfred Wegener Institute for Polar and Marine Research (AWI)                                           Germany
+funding_body-bbsrc          Biotechnology and Biological Sciences Research Council (BBSRC)                                         United Kingdom
+funding_body-bf             Belmont Forum (BF)
+funding_body-bmbf           Federal Ministry of Education and Research (BMBF)                                                      Germany
+funding_body-caixa          La Caixa Foundation (CAIXA)                                                                            Spain
+funding_body-cdti           Center for Industrial Technological Development (CDTI)                                                 Spain
+funding_body-cea            Alternative Energies and Atomic Energy Commission (CEA)                                                France
+funding_body-cihr           Canadian Institutes of Health Research (CIHR)                                                          Canada
+funding_body-cncsis         National University Research Council (CNCSIS) - Romania                                                Romania
+funding_body-cnes           National Centre for Space Studies (CNES)                                                               France
+funding_body-cnpq           National Council for Scientific and Technological Development (CNPq)                                   Brazil
+funding_body-cnr            National Research Council (CNR)                                                                        Italy
+funding_body-cnrs           National Centre for Scientific Research (CNRS)                                                         France
+funding_body-csf            Croatian Science Foundation (CSF)                                                                      Croatia
+funding_body-csic           Spanish National Research Council (CSIC)                                                               Spain
+funding_body-dashe          Danish Agency for Science and Higher Education (DASHE)                                                 Denmark
+funding_body-dasti          Danish Agency for Science, Technology and Innovation (DASTI)                                           Denmark
+funding_body-ddf            The Danish Council for Independent Research (DDF)                                                      Denmark
+funding_body-dff            Danish Council for Independent Research (DFF)                                                          Denmark
+funding_body-dfg            German Research Foundation (DFG)                                                                       Germany
+funding_body-dgo6           General Operational Directorate for Economy, Employment and Research (DGO6)                            Belgium
+funding_body-dlr            German Aerospace Center (DLR)                                                                          Germany
+funding_body-dnrf           Danish National Research Foundation (DNRF)                                                             Denmark
+funding_body-eaer           Federal Department of Economic Affairs, Education and Research (EAER)                                  Switzerland
+funding_body-ec             European Commission (EC)
+funding_body-epsrc          Engineering and Physical Sciences Research Council (EPSRC)                                             United Kingdom
+funding_body-esa            European Space Agency (ESA)
+funding_body-esrc           Economic and Social Research Council (ESRC)                                                            United Kingdom
+funding_body-etag           Estonian Research Council (ETAG)                                                                       Estonia
+funding_body-fapesp         São Paulo Research Foundation (FAPESP)                                                                 Brazil
+funding_body-fct            Foundation for Science and Technology (FCT)                                                            Portugal
+funding_body-ffg            Austrian Research Promotion Agency (FFG)                                                               Austria
+funding_body-fnp            Foundation for Polish Science (FNP)                                                                    Poland
+funding_body-fnr            National Research Fund (FNR)                                                                           Luxembourg
+funding_body-fnrs           Fonds National de la Recherche Scientifique (FNRS)                                                     Belgium
+funding_body-fom            Foundation for Fundamental Research on Matter (FOM)                                                    Netherlands
+funding_body-forte          Swedish Research Council for Health, Working Life and Welfare (FORTE)                                  Sweden
+funding_body-fts            Fritz Thyssen Foundation (FTS)                                                                         Germany
+funding_body-fwf            Austrian Science Fund (FWF)                                                                            Austria
+funding_body-fwo            Research Foundation Flanders (FWO)                                                                     Belgium
+funding_body-gacr           Czech Science Foundation (GACR)                                                                        Czechia
+funding_body-gsrt           General Secretariat for Research and Technology (GSRT)                                                 Greece
+funding_body-ifd            Innovation Fund Denmark (IFD)                                                                          Denmark
+funding_body-ifremer        French Research Institute for Exploitation of the Sea (IFREMER)                                        France
+funding_body-imsr           Innovation Fund of the Ministry of Economy of the Slovak Republic (IMSR)                               Slovakia
+funding_body-innoviris      Brussels Institute for Research and Innovation (INNOVIRIS)                                             Belgium
+funding_body-inra           National institute of Agricultural Research (INRA)                                                     France
+funding_body-inserm         National Institute of Health and Medical Research (INSERM)                                             France
+funding_body-ipev           French Polar Institute (IPEV)                                                                          France
+funding_body-irc            Irish Research Council (IRC)                                                                           Ireland
+funding_body-isc            International Science Council (ISC)
+funding_body-isciii         Carlos III Health Institute (ISCIII)                                                                   Spain
+funding_body-isf            Israel Science Foundation (ISF)                                                                        Israel
+funding_body-iwt            Agency for Innovation by Science and Technology (IWT)                                                  Belgium
+funding_body-jsps           Japanese Society for the Promotion of Science (JSPS)                                                   Japan
+funding_body-jst            Japanese Science and Technology Agency (JST)                                                           Japan
+funding_body-kaws           Knut and Alice Wallenberg Foundation (KAWS)                                                            Sweden
+funding_body-kks            Knowledge Foundation (KKS)                                                                             Sweden
+funding_body-lmt            Research Council of Lithuania (LMT)                                                                    Lithuania
+funding_body-mcst           Malta Council for Science and Technology (MCST)                                                        Malta
+funding_body-mecr           Ministry for Education and Scientific Research (MECR)                                                  Romania
+funding_body-mesr           Ministry of Higher Education and Research (MESR)                                                       France
+funding_body-mestd          Ministry of Education, Science and Technological Development of Republic of Serbia (MESTD)             Serbia
+funding_body-meys           Ministry of Education, Youth and Sports of the Czech Republic (MEYS)                                   Czechia
+funding_body-mgrt           Ministry for Economic Development and Technology (MGRT)                                                Slovenia
+funding_body-mineco         Ministry for Economy and Competitveness (MINECO)                                                       Spain
+funding_body-mistra         Swedish Foundation for Strategic Environmental Research (MISTRA)                                       Sweden
+funding_body-mita           Agency for Science, Innovation and Technology (MITA)                                                   Lithuania
+funding_body-miur           Ministry for Education, University and Research (MIUR)                                                 Italy
+funding_body-most           Ministry of Science and Technology of the People's Republic of China (MOST)                            China
+funding_body-mpg            Max Planck Society for the Advancement of Science (MPG)                                                Germany
+funding_body-mrc            Medical Research Council (MRC)                                                                         United Kingdom
+funding_body-mse            Ministry of Science and Education Republic of Croatia (MSE)                                            Croatia
+funding_body-msvvas_sr      The Ministry of Education, Science, Research and Sports of the Slovak Republic (MSVVaS SR)             Slovakia
+funding_body-nasa           National Aeronautics and Space Administration (NASA)                                                   United States
+funding_body-ncbir          National Centre for Research and Development (NCBiR)                                                   Poland
+funding_body-ncn            National Science Center (NCN)                                                                          Poland
+funding_body-nerc           Natural Environment Research Council (NERC)                                                            United Kingdom
+funding_body-nhmrc          National Health and Medical Research Council (NHMRC)                                                   Australia
+funding_body-nig            National Institutes of Health (NIG)                                                                    United States
+funding_body-nkfia          National Research, Development and Innovation Fund (NKFIA)                                             Hungary
+funding_body-nrf            National Research Foundation (NRF)                                                                     South Africa
+funding_body-nserc          Natural Sciences and Engineering Research Council of Canada (NSERC)                                    Canada
+funding_body-nsf            National Science Foundation (NSF)                                                                      United States
+funding_body-nwo            Netherlands Organisation for Scientific Research (NWO)                                                 Netherlands
+funding_body-oeaw           Austrian Academy of Sciences (OeAW)                                                                    Austria
+funding_body-oenfte         National Foundation for Research, Technology and Development (OeNFTE)                                  Austria
+funding_body-onera          French National Aerospace Research Center (ONERA)                                                      France
+funding_body-other          Other
+funding_body-rannis         Icelandic Centre for Research (RANNIS)                                                                 Iceland
+funding_body-rcn            Research Council of Norway (RCN)                                                                       Norway
+funding_body-rcuk           Research Council UK (RCUK)                                                                             United Kingdom
+funding_body-rj             The Swedish Foundation for Humanities and Social Sciences (RJ)                                         Sweden
+funding_body-rpf            Research Promotion Foundation (RPF)                                                                    Cyprus
+funding_body-sea            Swedish Energy Agency (SEA)                                                                            Sweden
+funding_body-sepa           Swedish Environmental Protection Agency (SEPA)                                                         Sweden
+funding_body-sfi            Science Foundation Ireland (SFI)                                                                       Ireland
+funding_body-sgpi           Secretariat-General for Investment (SGPI)                                                              France
+funding_body-snf            Swiss National Science Foundation (SNF)                                                                Switzerland
+funding_body-snsb           Swedish National Space Board (SNSB)                                                                    Sweden
+funding_body-srcf           Swedish Reseach Council Formas (SRCF)                                                                  Sweden
+funding_body-srsa           Swedish Radiation Safety Authority (SRSA)                                                              Sweden
+funding_body-ssf            Swedish Foundation for Strategic Research (SSF)                                                        Sweden
+funding_body-sshrc          Social Sciences and Humanities Research Council (SSHRC)                                                Canada
+funding_body-stfc           Science and Technology Facilities Council (STFC)                                                       United Kingdom
+funding_body-stw            Technology Foundation (STW)                                                                            Netherlands
+funding_body-tacr           Technology Agency of the Czech Republic (TACR)                                                         Czechia
+funding_body-tara           Tara Expeditions Foundation (TARA)                                                                     France
+funding_body-tekes          Finnish Funding Agency for Technology and Innovation (TEKES)                                           Finland
+funding_body-tubitak        Scientific and Technological Research Council of Turkey (TUBITAK)                                      Turkey
+funding_body-uefiscdi_cncs  Executive Agency for Higher Education, Research, Development and Innovation Funding (UEFISCDI - CNCS)  Romania
+funding_body-ukri           UK Research and Innovation (UKRI)                                                                      United Kingdom
+funding_body-vega           Scientific Grant Agency (VEGA)                                                                         Slovakia
+funding_body-viaa           State Education Development Agency (VIAA)                                                              Latvia
+funding_body-vinnova        Swedish Governmental Agency for Innovation Systems (VINNOVA)                                           Sweden
+funding_body-vlaio          Flanders Innovation & Entrepeneurship (VLAIO)                                                          Belgium
+funding_body-vr             Swedish Research Council (VR)                                                                          Sweden
+funding_body-vs             Volkswagen Foundation (VS)                                                                             Germany
+funding_body-wt             Wellcome trust (WT)                                                                                    United Kingdom
+funding_body-wwtf           Vienna Science and Technology Fund (WWTF)                                                              Austria
+==========================  =====================================================================================================  ==============

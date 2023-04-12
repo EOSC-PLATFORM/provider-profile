@@ -3,192 +3,192 @@
 LANGUAGE
 ========
 
-====  ===================  ===================
+====  ===================  =============
 ID    Name                 Description
-====  ===================  ===================
-aa    Afar                 Afar
-ab    Abkhazian            Abkhazian
-ae    Avestan              Avestan
-af    Afrikaans            Afrikaans
-ak    Akan                 Akan
-am    Amharic              Amharic
-an    Aragonese            Aragonese
-ar    Arabic               Arabic
-as    Assamese             Assamese
-av    Avaric               Avaric
-ay    Aymara               Aymara
-az    Azerbaijani          Azerbaijani
-ba    Bashkir              Bashkir
-be    Belarusian           Belarusian
-bg    Bulgarian            Bulgarian
-bh    Bihari               Bihari
-bi    Bislama              Bislama
-bm    Bambara              Bambara
-bn    Bengali              Bengali
-bo    Tibetan              Tibetan
-br    Breton               Breton
-bs    Bosnian              Bosnian
-ca    Catalan              Catalan
-ce    Chechen              Chechen
-ch    Chamorro             Chamorro
-co    Corsican             Corsican
-cr    Cree                 Cree
-cs    Czech                Czech
-cu    Old Church Slavonic  Old Church Slavonic
-cv    Chuvash              Chuvash
-cy    Welsh                Welsh
-da    Danish               Danish
-de    German               German
-dv    Divehi               Divehi
-dz    Dzongkha             Dzongkha
-ee    Ewe                  Ewe
-el    Greek                Greek
-en    English              English
-eo    Esperanto            Esperanto
-es    Spanish              Spanish
-et    Estonian             Estonian
-eu    Basque               Basque
-fa    Persian              Persian
-ff    Fula                 Fula
-fi    Finnish              Finnish
-fj    Fijian               Fijian
-fo    Faroese              Faroese
-fr    French               French
-fy    Western Frisian      Western Frisian
-ga    Irish                Irish
-gd    Galician             Galician
-gl    Gaelic               Gaelic
-gn    Guarani              Guarani
-gu    Gujarati             Gujarati
-gv    Manx                 Manx
-ha    Hausa                Hausa
-he    Hebrew               Hebrew
-hi    Hindi                Hindi
-ho    Hiri Motu            Hiri Motu
-hr    Croatian             Croatian
-ht    Haitian              Haitian
-hu    Hungarian            Hungarian
-hy    Armenian             Armenian
-hz    Herero               Herero
-ia    Interlingua          Interlingua
-id    Indonesian           Indonesian
-ie    Interlingue          Interlingue
-ig    Igbo                 Igbo
-ii    Nuosu                Nuosu
-iii   Sichuan Yi           Sichuan Yi
-ik    Inupiak              Inupiak
-io    Ido                  Ido
-is    Icelandic            Icelandic
-it    Italian              Italian
-iu    Inuktitut            Inuktitut
-ja    Japanese             Japanese
-jv    Javanese             Javanese
-ka    Georgian             Georgian
-kg    Kongo                Kongo
-ki    Kikuyu               Kikuyu
-kj    Kwanyama             Kwanyama
-kk    Kazakh               Kazakh
-kl    Kalaallisut          Kalaallisut
-km    Khmer                Khmer
-kn    Kannada              Kannada
-ko    Korean               Korean
-kr    Kanuri               Kanuri
-ks    Kashmiri             Kashmiri
-ku    Kurdish              Kurdish
-kv    Komi                 Komi
-kw    Cornish              Cornish
-ky    Kyrgyz               Kyrgyz
-la    Latin                Latin
-lb    Luxembourgish        Luxembourgish
-li    Limburgish           Limburgish
-ln    Lingala              Lingala
-lo    Lao                  Lao
-lt    Lithuanian           Lithuanian
-lu    Luba-Katanga         Luba-Katanga
-lv    Latvian              Latvian
-mg    Malagasy             Malagasy
-mh    Marshallese          Marshallese
-mi    Maori                Maori
-mk    Macedonian           Macedonian
-ml    Malayalam            Malayalam
-mn    Mongolian            Mongolian
-mr    Marathi              Marathi
-ms    Malay                Malay
-mt    Maltese              Maltese
-my    Burmese              Burmese
-na    Nauru                Nauru
-nb    Norwegian Bokmål     Norwegian Bokmål
-nd    Northern Ndebele     Northern Ndebele
-ne    Nepali               Nepali
-ng    Ndonga               Ndonga
-nl    Dutch                Dutch
-nn    Norwegian Nynorsk    Norwegian Nynorsk
-no    Norwegian            Norwegian
-nr    Southern Ndebele     Southern Ndebele
-nv    Navajo               Navajo
-ny    Chichewa             Chichewa
-oc    Occitan              Occitan
-oj    Ojibwe               Ojibwe
-om    Oromo                Oromo
-or    Oriya                Oriya
-os    Ossetian             Ossetian
-ot    Other                Other
-pa    Panjabi              Panjabi
-pi    Pāli                 Pāli
-pl    Polish               Polish
-ps    Pashto               Pashto
-pt    Portuguese           Portuguese
-qu    Quechua              Quechua
-rm    Romansh              Romansh
-rn    Kirundi              Kirundi
-ro    Romanian             Romanian
-ru    Russian              Russian
-rw    Kinyarwanda          Kinyarwanda
-sa    Sanskrit             Sanskrit
-sar   Sardinian            Sardinian
-sd    Sindhi               Sindhi
-se    Sami                 Sami
-sg    Sango                Sango
-si    Sinhalese            Sinhalese
-sk    Slovak               Slovak
-sl    Slovenian            Slovenian
-sm    Samoan               Samoan
-sn    Shona                Shona
-so    Somali               Somali
-sq    Albanian             Albanian
-sr    Serbian              Serbian
-ss    Swati                Swati
-st    Sesotho              Sesotho
-su    Sundanese            Sundanese
-sv    Swedish              Swedish
-sw    Swahili              Swahili
-ta    Tamil                Tamil
-te    Telugu               Telugu
-tg    Tajik                Tajik
-th    Thai                 Thai
-ti    Tigrinya             Tigrinya
-tk    Turkmen              Turkmen
-tl    Tagalog              Tagalog
-tn    Setswana             Setswana
-to    Tonga                Tonga
-tr    Turkish              Turkish
-ts    Tsonga               Tsonga
-tt    Tatar                Tatar
-tw    Twi                  Twi
-ty    Tahitian             Tahitian
-ug    Uyghur               Uyghur
-uk    Ukrainian            Ukrainian
-ur    Urdu                 Urdu
-uz    Uzbek                Uzbek
-ve    Venda                Venda
-vi    Vietnamese           Vietnamese
-vo    Volapük              Volapük
-wa    Wallon               Wallon
-wo    Wolof                Wolof
-xh    Xhosa                Xhosa
-yi    Yiddish              Yiddish
-yo    Yoruba               Yoruba
-za    Zhuang               Zhuang
-zh    Chinese              Chinese
-zu    Zulu                 Zulu
-====  ===================  ===================
+====  ===================  =============
+aa    Afar
+ab    Abkhazian
+ae    Avestan
+af    Afrikaans
+ak    Akan
+am    Amharic
+an    Aragonese
+ar    Arabic
+as    Assamese
+av    Avaric
+ay    Aymara
+az    Azerbaijani
+ba    Bashkir
+be    Belarusian
+bg    Bulgarian
+bh    Bihari
+bi    Bislama
+bm    Bambara
+bn    Bengali
+bo    Tibetan
+br    Breton
+bs    Bosnian
+ca    Catalan
+ce    Chechen
+ch    Chamorro
+co    Corsican
+cr    Cree
+cs    Czech
+cu    Old Church Slavonic
+cv    Chuvash
+cy    Welsh
+da    Danish
+de    German
+dv    Divehi
+dz    Dzongkha
+ee    Ewe
+el    Greek
+en    English
+eo    Esperanto
+es    Spanish
+et    Estonian
+eu    Basque
+fa    Persian
+ff    Fula
+fi    Finnish
+fj    Fijian
+fo    Faroese
+fr    French
+fy    Western Frisian
+ga    Irish
+gd    Galician
+gl    Gaelic
+gn    Guarani
+gu    Gujarati
+gv    Manx
+ha    Hausa
+he    Hebrew
+hi    Hindi
+ho    Hiri Motu
+hr    Croatian
+ht    Haitian
+hu    Hungarian
+hy    Armenian
+hz    Herero
+ia    Interlingua
+id    Indonesian
+ie    Interlingue
+ig    Igbo
+ii    Nuosu
+iii   Sichuan Yi
+ik    Inupiak
+io    Ido
+is    Icelandic
+it    Italian
+iu    Inuktitut
+ja    Japanese
+jv    Javanese
+ka    Georgian
+kg    Kongo
+ki    Kikuyu
+kj    Kwanyama
+kk    Kazakh
+kl    Kalaallisut
+km    Khmer
+kn    Kannada
+ko    Korean
+kr    Kanuri
+ks    Kashmiri
+ku    Kurdish
+kv    Komi
+kw    Cornish
+ky    Kyrgyz
+la    Latin
+lb    Luxembourgish
+li    Limburgish
+ln    Lingala
+lo    Lao
+lt    Lithuanian
+lu    Luba-Katanga
+lv    Latvian
+mg    Malagasy
+mh    Marshallese
+mi    Maori
+mk    Macedonian
+ml    Malayalam
+mn    Mongolian
+mr    Marathi
+ms    Malay
+mt    Maltese
+my    Burmese
+na    Nauru
+nb    Norwegian Bokmål
+nd    Northern Ndebele
+ne    Nepali
+ng    Ndonga
+nl    Dutch
+nn    Norwegian Nynorsk
+no    Norwegian
+nr    Southern Ndebele
+nv    Navajo
+ny    Chichewa
+oc    Occitan
+oj    Ojibwe
+om    Oromo
+or    Oriya
+os    Ossetian
+ot    Other
+pa    Panjabi
+pi    Pāli
+pl    Polish
+ps    Pashto
+pt    Portuguese
+qu    Quechua
+rm    Romansh
+rn    Kirundi
+ro    Romanian
+ru    Russian
+rw    Kinyarwanda
+sa    Sanskrit
+sar   Sardinian
+sd    Sindhi
+se    Sami
+sg    Sango
+si    Sinhalese
+sk    Slovak
+sl    Slovenian
+sm    Samoan
+sn    Shona
+so    Somali
+sq    Albanian
+sr    Serbian
+ss    Swati
+st    Sesotho
+su    Sundanese
+sv    Swedish
+sw    Swahili
+ta    Tamil
+te    Telugu
+tg    Tajik
+th    Thai
+ti    Tigrinya
+tk    Turkmen
+tl    Tagalog
+tn    Setswana
+to    Tonga
+tr    Turkish
+ts    Tsonga
+tt    Tatar
+tw    Twi
+ty    Tahitian
+ug    Uyghur
+uk    Ukrainian
+ur    Urdu
+uz    Uzbek
+ve    Venda
+vi    Vietnamese
+vo    Volapük
+wa    Wallon
+wo    Wolof
+xh    Xhosa
+yi    Yiddish
+yo    Yoruba
+za    Zhuang
+zh    Chinese
+zu    Zulu
+====  ===================  =============

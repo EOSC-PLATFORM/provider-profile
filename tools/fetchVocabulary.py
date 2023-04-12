@@ -20,7 +20,7 @@ def getVocabularies(vocabularyTitle):
     data = response_API.json()
     listOfVocabularies = [tuple(('ID', 'Name', 'Description'))]
     for jsonObject in data:
-        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'],jsonObject['name'])))
+        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'],jsonObject['description'])))
 
    # print(listOfVocabularies)
     return listOfVocabularies
