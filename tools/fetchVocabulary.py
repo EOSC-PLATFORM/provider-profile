@@ -9,7 +9,7 @@ path = "../docs/_vocabularies/"
 getting types for the vocabularies from schema2.xsd, from  <xs:simpleType name="vocab">
 '''
 schema = xmlschema.XMLSchema("../schemas/schema2.xsd")
-vocabularyTitles = schema.simple_types[6].enumeration
+vocabularyTitles = schema.simple_types[5].enumeration
 
 
 
