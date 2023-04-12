@@ -20,7 +20,7 @@ Provider
      - Providers that are members or affiliated or associated with other organisations should list those organisations here.
      - Optional
    * - areasOfActivity
-     - Basic research, Applied research or Technological development.:doc:`Vocabulary <_vocabularies/PROVIDER_AREA_OF_ACTIVITY>`.
+     - Basic research, Applied research or Technological development. :doc:`Vocabulary <_vocabularies/PROVIDER_AREA_OF_ACTIVITY>`.
      - Optional
    * - catalogueId
      - The Catalogue this Provider is originally registered at.
@@ -32,10 +32,10 @@ Provider
      - A high-level description of the Provider in fairly non-technical terms, with the vision, mission, objectives, background, experience.
      - Mandatory
    * - esfriDomains
-     - ESFRI domain classification.:doc:`Vocabulary <_vocabularies/PROVIDER_ESFRI_DOMAIN>`.
+     - ESFRI domain classification. :doc:`Vocabulary <_vocabularies/PROVIDER_ESFRI_DOMAIN>`.
      - Optional
    * - esfriType
-     - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark.
+     - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark. :doc:`Vocabulary <_vocabularies/PROVIDER_ESFRI_TYPE>`.
      - Optional
    * - hostingLegalEntity
      - Name of the organisation/institution legally hosting (housing) the provider/research infrastructure or its coordinating centre. A distinction is made between: (1) research infrastructures that are self-standing and have a defined and distinct legal entity, (2) research infrastructures that are embedded into another institution which is a legal entity (such as a university, a research organisation, etc.). If (1) - name of the research infrastructure, If (2) - name of the hosting organisation.
@@ -50,7 +50,7 @@ Provider
      - Legal status of the Provider. The legal status is usually noted in the registration act/statutes. For independent legal entities (1) - legal status of the Provider. For embedded providers (2) - legal status of the hosting legal entity. It is also possible to select Not a legal entity.
      - Optional
    * - lifeCycleStatus
-     - Current status of the Provider life-cycle.:doc:`Vocabulary <_vocabularies/PROVIDER_LIFE_CYCLE_STATUS>`.
+     - Current status of the Provider life-cycle. :doc:`Vocabulary <_vocabularies/PROVIDER_LIFE_CYCLE_STATUS>`.
      - Optional
    * - location
      - Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile Providers.
@@ -62,7 +62,7 @@ Provider
      - Provider's main contact info.
      - Mandatory
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification.Vocabularies: :doc:`Domain <_vocabularies/MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/MERIL_SCIENTIFIC_SUBDOMAIN>`.
+     - MERIL scientific domain / subdomain classification. Vocabularies: :doc:`Domain <_vocabularies/MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/MERIL_SCIENTIFIC_SUBDOMAIN>`.
      - Optional
    * - multimedia
      - Link to video, slideshow, photos, screenshots with details of the Provider.
@@ -74,7 +74,7 @@ Provider
      - Provider's participation in a national roadmap.
      - Optional
    * - networks
-     - Providers that are members of networks should list those networks here.:doc:`Vocabulary <_vocabularies/PROVIDER_NETWORK>`.
+     - Providers that are members of networks should list those networks here. :doc:`Vocabulary <_vocabularies/PROVIDER_NETWORK>`.
      - Optional
    * - participatingCountries
      - Providers/Research Infrastructures that are funded by several countries should list here all supporting countries (including the Coordinating country).
@@ -83,10 +83,10 @@ Provider
      - List of the Provider's public contacts info.
      - Mandatory
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities.Vocabularies: :doc:`Domain <_vocabularies/SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/SCIENTIFIC_SUBDOMAIN>`.
+     - A named group of providers that offer access to the same type of resource or capabilities. Vocabularies: :doc:`Domain <_vocabularies/SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/SCIENTIFIC_SUBDOMAIN>`.
      - Optional
    * - societalGrandChallenges
-     - Provider’s participation in the Grand Societal Challenges defined by the European Commission.:doc:`Vocabulary <_vocabularies/PROVIDER_SOCIETAL_GRAND_CHALLENGE>`.
+     - Provider’s participation in the Grand Societal Challenges defined by the European Commission. :doc:`Vocabulary <_vocabularies/PROVIDER_SOCIETAL_GRAND_CHALLENGE>`.
      - Optional
    * - structureTypes
      - Defines the Provider structure type (single-sited, distributed, mobile, virtual, etc.).
