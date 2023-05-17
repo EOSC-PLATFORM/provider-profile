@@ -26,7 +26,7 @@ if not on_rtd:
 # -- Project information -----------------------------------------------------
 
 project = 'EOSC - Provider PROFILE'
-copyright = '2022, EOSC'
+copyright = '2022-2023, EOSC'
 author = 'EOSC profile strategy team'
 
 # The full version, including alpha/beta/rc tags
@@ -107,7 +107,7 @@ latex_documents = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'EOSCproviderProfile', u'EOSC Provider Profile',
-   u'EOSC', 'EOSCproviderProfile', 'One line description of project.',
+   u'EOSC', 'EOSCproviderProfile', 'Description on Provider profile for the European Open Science Cloud.',
    'Miscellaneous'),
 ]
 
