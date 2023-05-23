@@ -30,7 +30,7 @@ copyright = '2022-2023, EOSC'
 author = 'EOSC profile strategy team'
 
 # The full version, including alpha/beta/rc tags
-release = '4.0'
+release = '4.1-rc'
 
 
 # -- General configuration ---------------------------------------------------
