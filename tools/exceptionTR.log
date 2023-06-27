@@ -1,0 +1,3 @@
+failed to load external entity "xslt/vocabulary.xsl"
+compilation error: file xslt/selectDocumentationsForComplexType.xsl line 8 element include
+xsl:include : unable to load xslt/vocabulary.xsl
