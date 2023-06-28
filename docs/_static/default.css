@@ -13,6 +13,6 @@
     overflow: visible;
 }
 
-.wy-table-bordered-all {
+.wy-table-bordered-all, .rst-content table.docutils {
     width: 100%;
 }
