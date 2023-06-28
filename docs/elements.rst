@@ -66,11 +66,11 @@ Provider
    * - Element name
      - Description
      - Mandatory        
-   * - scientificDomain
-     - 
+   * - scientificDomains
+     - A named group of providers that offer access to the same type of resource or capabilities. Vocabularies: :doc:`Domain <_vocabularies/SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/SCIENTIFIC_SUBDOMAIN>`.
      - N
-   * - 
-     - 
+   * - scientificSubdomain
+     - The subbranch of science, scientific subdicipline that is related to the Resource.
      - Y
    * - tags
      - Keywords associated to the Provider to simplify search by relevant keywords.

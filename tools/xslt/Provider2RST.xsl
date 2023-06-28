@@ -84,9 +84,9 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'scientificDomain'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'scientificDomains'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'scientificSubdomain'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'serviceProviderDomain'" /><xsl:with-param name="keyName" select="'scientificSubdomain'" /></xsl:call-template>
         <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'tags'" /></xsl:call-template>
         <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'structureType'" /></xsl:call-template>
         <!--
