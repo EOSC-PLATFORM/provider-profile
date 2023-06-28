@@ -38,13 +38,14 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
+            <xsl:with-param name="entity" select="'provider'" />
             <xsl:with-param name="keyName" select="'name'" />
         </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'abbreviation'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'website'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'legalEntity'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'legalStatus'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'hostingLegalEntity'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'abbreviation'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'website'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'legalEntity'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'legalStatus'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'hostingLegalEntity'" /></xsl:call-template>
     </xsl:template>
 
     <xsl:template name="block2">
@@ -60,10 +61,10 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'description'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'description'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'logo'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimedia'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'logo'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'multimedia'" /></xsl:call-template>
 <!--
         <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimediaUrl'" /></xsl:call-template>
         <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimediaName'" /></xsl:call-template>
@@ -83,11 +84,11 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'scientificDomain'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'scientificDomain'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'scientificSubdomain'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'tags'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'structureType'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'scientificSubdomain'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'tags'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'structureType'" /></xsl:call-template>
         <!--
                 <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimediaName'" /></xsl:call-template>
         -->
@@ -106,12 +107,12 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'streetNameAndNumber'" />
+        <xsl:with-param name="entity" select="'providerLocation'" /><xsl:with-param name="keyName" select="'streetNameAndNumber'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'postalCode'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'city'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'region'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'country'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerLocation'" /><xsl:with-param name="keyName" select="'postalCode'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerLocation'" /><xsl:with-param name="keyName" select="'city'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerLocation'" /><xsl:with-param name="keyName" select="'region'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerLocation'" /><xsl:with-param name="keyName" select="'country'" /></xsl:call-template>
 
         <!--
                 <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimediaName'" /></xsl:call-template>
@@ -131,13 +132,13 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'mainContact'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'mainContact'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'firstName'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'lastName'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'email'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'phone'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'position'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerMainContact'" /><xsl:with-param name="keyName" select="'firstName'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerMainContact'" /><xsl:with-param name="keyName" select="'lastName'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerMainContact'" /><xsl:with-param name="keyName" select="'email'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerMainContact'" /><xsl:with-param name="keyName" select="'phone'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerMainContact'" /><xsl:with-param name="keyName" select="'position'" /></xsl:call-template>
 
 .. list-table:: EOSC Provider Profile Elements of "<xsl:value-of select="$blockName"/>" block - public contact
    :widths: 25 50 10
@@ -146,13 +147,13 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'publicContacts'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'publicContacts'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'firstName'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'lastName'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'email'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'phone'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'position'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerPublicContact'" /><xsl:with-param name="keyName" select="'firstName'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerPublicContact'" /><xsl:with-param name="keyName" select="'lastName'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerPublicContact'" /><xsl:with-param name="keyName" select="'email'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerPublicContact'" /><xsl:with-param name="keyName" select="'phone'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'providerPublicContact'" /><xsl:with-param name="keyName" select="'position'" /></xsl:call-template>
         <!--
                 <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'multimediaName'" /></xsl:call-template>
         -->
@@ -171,9 +172,9 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'lifeCycleStatus'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'lifeCycleStatus'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'certifications'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'certifications'" /></xsl:call-template>
 
     </xsl:template>
 
@@ -190,9 +191,9 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'participatingCountries'" />
+    <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'participatingCountries'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'affiliations'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'affiliations'" /></xsl:call-template>
 
     </xsl:template>
 
@@ -209,10 +210,10 @@ Provider
    * - Element name
      - Description
      - Mandatory        <xsl:call-template name="selectSection">
-        <xsl:with-param name="keyName" select="'esfriDomains'" />
+        <xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'esfriDomains'" />
     </xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'esfriType'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="keyName" select="'merilScientificDomains'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'esfriType'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'merilScientificDomains'" /></xsl:call-template>
     </xsl:template>
 
     <xsl:template name="block9">
@@ -235,16 +236,17 @@ Provider
         -->
     </xsl:template>
 
-
+   <!-- selectSection: provider -->
     <xsl:template name="selectSection">
+        <xsl:param name="entity" />
         <xsl:param name="keyName" />
-   * - <xsl:value-of select="normalize-space(//xs:complexType[@name='provider']//xs:element[@name=$keyName]//@name)" />
-     - <xsl:value-of select="normalize-space(//xs:complexType[@name='provider']//xs:element[@name=$keyName]//xs:documentation)" />
+   * - <xsl:value-of select="normalize-space(//xs:complexType[@name=$entity]//xs:element[@name=$keyName]//@name)" />
+     - <xsl:value-of select="normalize-space(//xs:complexType[@name=$entity]//xs:element[@name=$keyName]//xs:documentation)" />
         <xsl:call-template name="checkVocabulary">
             <xsl:with-param name="nameToCheck" select="$keyName" />
         </xsl:call-template>
-        <xsl:if test="(count(//xs:complexType[@name='provider']//xs:element[@name=$keyName]/@minOccurs) > 0) and (//xs:complexType[@name='provider']//xs:element[@name=$keyName]/@minOccurs = 0)">
-     - N</xsl:if><xsl:if test="(count(//xs:complexType[@name='provider']//xs:element[@name=$keyName]/@minOccurs) = 0)">
+        <xsl:if test="(count(//xs:complexType[@name=$entity]//xs:element[@name=$keyName]/@minOccurs) > 0) and (//xs:complexType[@name=$entity]//xs:element[@name=$keyName]/@minOccurs = 0)">
+     - N</xsl:if><xsl:if test="(count(//xs:complexType[@name=$entity]//xs:element[@name=$keyName]/@minOccurs) = 0)">
      - Y</xsl:if>
 
     </xsl:template>

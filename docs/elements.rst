@@ -89,20 +89,20 @@ Provider
    * - Element name
      - Description
      - Mandatory        
-   * - 
-     - 
+   * - streetNameAndNumber
+     - Street and Number of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
      - Y
-   * - 
-     - 
+   * - postalCode
+     - Postal code of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
      - Y
-   * - 
-     - 
+   * - city
+     - City of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
      - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
+   * - region
+     - Region of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
+     - N
+   * - country
+     - Country of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
      - Y
 
 5. Contact
@@ -118,21 +118,21 @@ Provider
    * - mainContact
      - Provider's main contact info.
      - Y
-   * - 
-     - 
+   * - firstName
+     - First Name of the Provider's main contact person/Provider manager.
      - Y
-   * - 
-     - 
+   * - lastName
+     - Last Name of the Provider's main contact person/Provider manager.
+     - N
+   * - email
+     - Email of the Provider's main contact person/Provider manager.
      - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
-     - Y
+   * - phone
+     - Phone of the Provider's main contact person/Provider manager.
+     - N
+   * - position
+     - Position of the Provider's main contact person/Provider manager.
+     - N
 
 .. list-table:: EOSC Provider Profile Elements of "Contact" block - public contact
    :widths: 25 50 10
@@ -144,21 +144,21 @@ Provider
    * - publicContacts
      - List of the Provider's public contacts info.
      - Y
-   * - 
-     - 
+   * - firstName
+     - First Name of the Provider's main contact person/Provider manager.
+     - N
+   * - lastName
+     - Last Name of the Provider's main contact person/Provider manager.
+     - N
+   * - email
+     - Email of the Provider's main contact person/Provider manager.
      - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
-     - Y
-   * - 
-     - 
-     - Y
+   * - phone
+     - Phone of the Provider's main contact person/Provider manager.
+     - N
+   * - position
+     - Position of the Provider's main contact person/Provider manager.
+     - N
 
 6. Maturity
 ###########
