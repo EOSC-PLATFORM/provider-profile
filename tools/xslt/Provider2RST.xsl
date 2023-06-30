@@ -195,7 +195,7 @@ Provider
     </xsl:call-template>
         <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'affiliations'" /></xsl:call-template>
         <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'networks'" /></xsl:call-template>
-        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'catalogue'" /></xsl:call-template>
+        <xsl:call-template name="selectSection"><xsl:with-param name="entity" select="'provider'" /><xsl:with-param name="keyName" select="'catalogueId'" /></xsl:call-template>
     </xsl:template>
 
     <xsl:template name="block8">

@@ -196,9 +196,9 @@ Provider
    * - networks
      - Providers that are members of networks should list those networks here. :doc:`Vocabulary <_vocabularies/PROVIDER_NETWORK>`.
      - N
-   * - 
-     - 
-     - Y
+   * - catalogueId
+     - The Catalogue this Provider is originally registered at.
+     - N
 
 8. Other
 ########
