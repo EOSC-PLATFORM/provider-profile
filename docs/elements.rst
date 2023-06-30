@@ -67,7 +67,7 @@ Provider
      - Description
      - Mandatory        
    * - scientificDomains
-     - A named group of providers that offer access to the same type of resource or capabilities. Vocabularies: :doc:`Domain <_vocabularies/SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/SCIENTIFIC_SUBDOMAIN>`.
+     - A named group of providers that offer access to the same type of resource or capabilities. Vocabularies: :doc:`Domain-Vocabulary <_vocabularies/SCIENTIFIC_DOMAIN>` / :doc:`Subdomain-Vocabulary <_vocabularies/SCIENTIFIC_SUBDOMAIN>`.
      - N
    * - scientificSubdomain
      - The subbranch of science, scientific subdicipline that is related to the Resource.
@@ -211,7 +211,7 @@ Provider
      - If the research infrastructure is (part of) an ESFRI project indicate how the RI participates: a) is a node of an ESFRI project, b) is an ESFRI project, c) is an ESFRI landmark, d) is not an ESFRI project or landmark. :doc:`Vocabulary <_vocabularies/PROVIDER_ESFRI_TYPE>`.
      - N
    * - merilScientificDomains
-     - MERIL scientific domain / subdomain classification. Vocabularies: :doc:`Domain <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_SUBDOMAIN>`.
+     - MERIL scientific domain / subdomain classification. Vocabularies: :doc:`Domain-Vocabulary <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_DOMAIN>` / :doc:`Subdomain-Vocabulary <_vocabularies/PROVIDER_MERIL_SCIENTIFIC_SUBDOMAIN>`.
      - N
 
 9. Admins
