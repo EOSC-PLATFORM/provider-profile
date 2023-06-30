@@ -5,7 +5,8 @@ SEMANTIC RELATIONSHIP
 
 .. table::
    :class: datatable
-====  ======  =============
-ID    Name    Description
-====  ======  =============
-====  ======  =============
+
+   ====  ======  =============
+   ID    Name    Description
+   ====  ======  =============
+   ====  ======  =============
