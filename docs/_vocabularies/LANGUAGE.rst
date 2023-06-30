@@ -3,6 +3,8 @@
 LANGUAGE
 ========
 
+.. table::
+   :class: datatable
 ====  ===================  =============
 ID    Name                 Description
 ====  ===================  =============

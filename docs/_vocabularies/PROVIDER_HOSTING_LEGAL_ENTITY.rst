@@ -5,7 +5,6 @@ PROVIDER HOSTING LEGAL ENTITY
 
 .. table::
    :class: datatable
-
 ====================================================================  ==========================================================================================================================  =============
 ID                                                                    Name                                                                                                                        Description
 ====================================================================  ==========================================================================================================================  =============
@@ -74,6 +73,7 @@ provider_hosting_legal_entity-csic                                    Consejo Su
 provider_hosting_legal_entity-csip                                    Consorzio per il Sistema Informativo (CSI Piemonte)
 provider_hosting_legal_entity-csuc                                    Consorci de Serveis Universitaris de Catalunya
 provider_hosting_legal_entity-cu                                      Charles University
+provider_hosting_legal_entity-cut_library                             Cracow University of Technology / the Library
 provider_hosting_legal_entity-cybcebbruc                              CY-Biobank Center of Excellence in Biobanking and Biomedical Research - University of Cyprus
 provider_hosting_legal_entity-cyberbotics                             Cyberbotics
 provider_hosting_legal_entity-cyi                                     The Cyprus Institute
@@ -106,6 +106,7 @@ provider_hosting_legal_entity-ekt                                     National D
 provider_hosting_legal_entity-elettra_sincrotrone_trieste             George Kourousias
 provider_hosting_legal_entity-embl-ebi                                European Molecular Biology Laboratory - European Bioinformatics Institute
 provider_hosting_legal_entity-emblebi                                 European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
+provider_hosting_legal_entity-embrc-eric                              European Marine Biological Resource Centre
 provider_hosting_legal_entity-emc                                     Erasmus Medical Center
 provider_hosting_legal_entity-emso                                    European Multidisciplinary Seafloor and water column Observatory (EMSO)
 provider_hosting_legal_entity-emso_eric                               European Multidisciplinary Seafloor and water column Observatory
@@ -132,6 +133,7 @@ provider_hosting_legal_entity-fcub                                    University
 provider_hosting_legal_entity-figshare                                Figshare
 provider_hosting_legal_entity-fnsp                                    Fondation Nationale des Sciences Politiques (Sciences Po)
 provider_hosting_legal_entity-forth                                   Foundation for Research and Technology, Hellas (FORTH)
+provider_hosting_legal_entity-fris                                    Flemisch Research Information Space
 provider_hosting_legal_entity-fscai                                   Fraunhofer SCAI
 provider_hosting_legal_entity-fzj                                     Forschungszentrum Jülich
 provider_hosting_legal_entity-fzj-inm7                                Forschungszentrum Jülich,￼ Institute of Neurosciences and Medicine (INM) Brain and Behavior (INM-7)
@@ -180,6 +182,7 @@ provider_hosting_legal_entity-kit                                     Karlsruhe 
 provider_hosting_legal_entity-komanord                                Koma Nord
 provider_hosting_legal_entity-konstanz                                University of Konstanz
 provider_hosting_legal_entity-ku_leuven                               KU Leuven
+provider_hosting_legal_entity-kue                                     Krakow University of Economics, Main Library
 provider_hosting_legal_entity-lab1100                                 LAB1100
 provider_hosting_legal_entity-lapp                                    Laboratoire d'Annecy de Physique des Particules
 provider_hosting_legal_entity-leaena                                  National Technical Univerisity of Athens
@@ -203,6 +206,7 @@ provider_hosting_legal_entity-nilu                                    Norwegian 
 provider_hosting_legal_entity-niod                                    NIOD Institute for War, Genocide and Holocaust Studies
 provider_hosting_legal_entity-norce                                   NORCE Norwegian Research Centre
 provider_hosting_legal_entity-northern_data_cloud_services            ND CS (Services) GmbH
+provider_hosting_legal_entity-oasees                                  Open autonomous programmable cloud apps & smart sensors
 provider_hosting_legal_entity-obp                                     Open Book Publishers (OBP)
 provider_hosting_legal_entity-odp                                     Observatoire de Paris
 provider_hosting_legal_entity-okm                                     Open Knowledge Maps
@@ -233,6 +237,7 @@ provider_hosting_legal_entity-sks                                     Scientific
 provider_hosting_legal_entity-soleil                                  Synchrotron SOLEIL
 provider_hosting_legal_entity-suite5                                  Suite5 Data Intelligence Solutions
 provider_hosting_legal_entity-surf                                    SURF
+provider_hosting_legal_entity-surf-nl                                 SURF
 provider_hosting_legal_entity-switch                                  SWITCH
 provider_hosting_legal_entity-sztaki                                  INSTITUTE FOR COMPUTER SCIENCE AND CONTROL (SZTAKI)
 provider_hosting_legal_entity-t-systems                               T-Systems International GmbH
