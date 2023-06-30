@@ -1,6 +1,6 @@
 .. _region:
 
-REGION
+Region
 ======
 
 .. table::

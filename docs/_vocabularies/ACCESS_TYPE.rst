@@ -1,6 +1,6 @@
 .. _access_type:
 
-ACCESS TYPE
+Access type
 ===========
 
 .. table::

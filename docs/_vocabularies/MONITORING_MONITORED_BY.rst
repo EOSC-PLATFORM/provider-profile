@@ -1,6 +1,6 @@
 .. _monitoring_monitored_by:
 
-MONITORING MONITORED BY
+Monitoring monitored by
 =======================
 
 .. table::

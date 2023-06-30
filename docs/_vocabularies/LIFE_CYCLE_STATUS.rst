@@ -1,6 +1,6 @@
 .. _life_cycle_status:
 
-LIFE CYCLE STATUS
+Life cycle status
 =================
 
 .. table::

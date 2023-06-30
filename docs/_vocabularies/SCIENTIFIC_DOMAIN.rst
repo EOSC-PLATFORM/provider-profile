@@ -1,6 +1,6 @@
 .. _scientific_domain:
 
-SCIENTIFIC DOMAIN
+Scientific domain
 =================
 
 .. table::

@@ -1,6 +1,6 @@
 .. _ds_coar_access_rights_1_0:
 
-DS COAR ACCESS RIGHTS 1 0
+Ds coar access rights 1 0
 =========================
 
 .. table::

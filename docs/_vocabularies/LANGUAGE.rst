@@ -1,6 +1,6 @@
 .. _language:
 
-LANGUAGE
+Language
 ========
 
 .. table::

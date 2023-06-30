@@ -1,6 +1,6 @@
 .. _ds_research_entity_type:
 
-DS RESEARCH ENTITY TYPE
+Ds research entity type
 =======================
 
 .. table::

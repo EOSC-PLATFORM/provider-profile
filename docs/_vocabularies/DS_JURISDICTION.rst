@@ -1,6 +1,6 @@
 .. _ds_jurisdiction:
 
-DS JURISDICTION
+Ds jurisdiction
 ===============
 
 .. table::

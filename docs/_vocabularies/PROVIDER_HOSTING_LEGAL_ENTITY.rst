@@ -1,6 +1,6 @@
 .. _provider_hosting_legal_entity:
 
-PROVIDER HOSTING LEGAL ENTITY
+Provider hosting legal entity
 =============================
 
 .. table::

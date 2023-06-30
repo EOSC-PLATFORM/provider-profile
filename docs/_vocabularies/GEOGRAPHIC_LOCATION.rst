@@ -1,6 +1,6 @@
 .. _geographic_location:
 
-GEOGRAPHIC LOCATION
+Geographic location
 ===================
 
 .. table::

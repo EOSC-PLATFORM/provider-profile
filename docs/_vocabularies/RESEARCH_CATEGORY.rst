@@ -1,6 +1,6 @@
 .. _research_category:
 
-RESEARCH CATEGORY
+Research category
 =================
 
 .. table::

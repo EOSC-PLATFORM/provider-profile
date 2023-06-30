@@ -1,6 +1,6 @@
 .. _provider_area_of_activity:
 
-PROVIDER AREA OF ACTIVITY
+Provider area of activity
 =========================
 
 .. table::

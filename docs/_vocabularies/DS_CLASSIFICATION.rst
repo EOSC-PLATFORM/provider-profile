@@ -1,6 +1,6 @@
 .. _ds_classification:
 
-DS CLASSIFICATION
+Ds classification
 =================
 
 .. table::

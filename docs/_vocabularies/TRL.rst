@@ -1,6 +1,6 @@
 .. _trl:
 
-TRL
+Trl
 ===
 
 .. table::

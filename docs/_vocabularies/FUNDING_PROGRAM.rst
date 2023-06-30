@@ -1,6 +1,6 @@
 .. _funding_program:
 
-FUNDING PROGRAM
+Funding program
 ===============
 
 .. table::

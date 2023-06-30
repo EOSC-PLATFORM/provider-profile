@@ -1,6 +1,6 @@
 .. _provider_meril_scientific_subdomain:
 
-PROVIDER MERIL SCIENTIFIC SUBDOMAIN
+Provider meril scientific subdomain
 ===================================
 
 .. table::

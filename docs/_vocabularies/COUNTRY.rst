@@ -1,6 +1,6 @@
 .. _country:
 
-COUNTRY
+Country
 =======
 
 .. table::

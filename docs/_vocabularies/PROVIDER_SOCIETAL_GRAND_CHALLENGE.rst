@@ -1,6 +1,6 @@
 .. _provider_societal_grand_challenge:
 
-PROVIDER SOCIETAL GRAND CHALLENGE
+Provider societal grand challenge
 =================================
 
 .. table::

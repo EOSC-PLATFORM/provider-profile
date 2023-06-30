@@ -1,6 +1,6 @@
 .. _provider_structure_type:
 
-PROVIDER STRUCTURE TYPE
+Provider structure type
 =======================
 
 .. table::

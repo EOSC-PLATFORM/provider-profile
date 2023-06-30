@@ -1,6 +1,6 @@
 .. _related_platform:
 
-RELATED PLATFORM
+Related platform
 ================
 
 .. table::

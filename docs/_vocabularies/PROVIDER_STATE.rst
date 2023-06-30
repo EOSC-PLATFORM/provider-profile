@@ -1,6 +1,6 @@
 .. _provider_state:
 
-PROVIDER STATE
+Provider state
 ==============
 
 .. table::

@@ -1,6 +1,6 @@
 .. _provider_life_cycle_status:
 
-PROVIDER LIFE CYCLE STATUS
+Provider life cycle status
 ==========================
 
 .. table::

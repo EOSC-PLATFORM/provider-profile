@@ -1,6 +1,6 @@
 .. _category:
 
-CATEGORY
+Category
 ========
 
 .. table::

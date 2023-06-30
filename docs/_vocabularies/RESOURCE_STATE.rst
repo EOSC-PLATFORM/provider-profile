@@ -1,6 +1,6 @@
 .. _resource_state:
 
-RESOURCE STATE
+Resource state
 ==============
 
 .. table::

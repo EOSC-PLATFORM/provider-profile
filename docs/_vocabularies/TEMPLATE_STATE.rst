@@ -1,6 +1,6 @@
 .. _template_state:
 
-TEMPLATE STATE
+Template state
 ==============
 
 .. table::

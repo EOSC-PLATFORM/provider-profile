@@ -1,6 +1,6 @@
 .. _provider_network:
 
-PROVIDER NETWORK
+Provider network
 ================
 
 .. table::

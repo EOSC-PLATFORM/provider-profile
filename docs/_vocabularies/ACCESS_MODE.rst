@@ -1,6 +1,6 @@
 .. _access_mode:
 
-ACCESS MODE
+Access mode
 ===========
 
 .. table::

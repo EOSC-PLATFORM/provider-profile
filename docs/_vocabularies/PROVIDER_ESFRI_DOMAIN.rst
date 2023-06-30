@@ -1,6 +1,6 @@
 .. _provider_esfri_domain:
 
-PROVIDER ESFRI DOMAIN
+Provider esfri domain
 =====================
 
 .. table::

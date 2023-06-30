@@ -1,6 +1,6 @@
 .. _target_user:
 
-TARGET USER
+Target user
 ===========
 
 .. table::

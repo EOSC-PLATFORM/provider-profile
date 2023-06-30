@@ -1,6 +1,6 @@
 .. _funding_body:
 
-FUNDING BODY
+Funding body
 ============
 
 .. table::

@@ -1,6 +1,6 @@
 .. _supercategory:
 
-SUPERCATEGORY
+Supercategory
 =============
 
 .. table::

@@ -1,6 +1,6 @@
 .. _scientific_subdomain:
 
-SCIENTIFIC SUBDOMAIN
+Scientific subdomain
 ====================
 
 .. table::

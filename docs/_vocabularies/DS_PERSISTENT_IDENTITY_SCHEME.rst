@@ -1,6 +1,6 @@
 .. _ds_persistent_identity_scheme:
 
-DS PERSISTENT IDENTITY SCHEME
+Ds persistent identity scheme
 =============================
 
 .. table::

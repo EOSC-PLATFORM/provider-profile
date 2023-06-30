@@ -1,6 +1,6 @@
 .. _semantic_relationship:
 
-SEMANTIC RELATIONSHIP
+Semantic relationship
 =====================
 
 .. table::

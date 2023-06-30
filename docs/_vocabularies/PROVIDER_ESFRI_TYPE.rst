@@ -1,6 +1,6 @@
 .. _provider_esfri_type:
 
-PROVIDER ESFRI TYPE
+Provider esfri type
 ===================
 
 .. table::

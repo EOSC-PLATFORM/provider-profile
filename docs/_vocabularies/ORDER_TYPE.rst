@@ -1,6 +1,6 @@
 .. _order_type:
 
-ORDER TYPE
+Order type
 ==========
 
 .. table::

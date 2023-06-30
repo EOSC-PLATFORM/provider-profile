@@ -1,6 +1,6 @@
 .. _catalogue_state:
 
-CATALOGUE STATE
+Catalogue state
 ===============
 
 .. table::

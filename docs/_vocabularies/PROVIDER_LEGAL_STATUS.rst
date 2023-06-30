@@ -1,6 +1,6 @@
 .. _provider_legal_status:
 
-PROVIDER LEGAL STATUS
+Provider legal status
 =====================
 
 .. table::
