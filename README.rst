@@ -12,6 +12,15 @@ Accompanying artefacts
 
 The original schema's files are copied from `Madgeek-ARC <https://github.com/madgeek-arc/resource-catalogue/tree/master/eic-registry-model/src/main/resources>`_ GitHub repository.
 
+Requirements
+~~~~~~~~~~~~
+
+* bash (unix)
+
+  * cp
+  * make
+  * git
+  * xmlstarlet
 
 Preparation
 ~~~~~~~~~~~
