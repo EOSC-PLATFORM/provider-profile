@@ -11,7 +11,7 @@ Welcome to EOSC - PROFILE documentation
    :maxdepth: 1
 
    introduction
-   elementsProvider
+   elements
 
 Indices and tables
 ==================
