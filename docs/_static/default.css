@@ -12,3 +12,7 @@
     max-width: 100%;
     overflow: visible;
 }
+
+.rst-content table.docutils, .wy-table-bordered-all {
+    width: 100%;
+}
