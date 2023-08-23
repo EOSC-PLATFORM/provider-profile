@@ -27,7 +27,7 @@ if not on_rtd:
 
 project = 'EOSC - Provider PROFILE'
 copyright = '2022-2023, EOSC'
-author = 'EOSC profile strategy team'
+author = 'EOSC metadata schema profile team'
 
 # The full version, including alpha/beta/rc tags
 release = '4.1-rc'
@@ -69,7 +69,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-#html_theme = 'alabaster'
+html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -84,6 +84,7 @@ html_js_files = [
     'https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js',
     'main.js',
 ]
+
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'EOSCproviderProfile'
 
