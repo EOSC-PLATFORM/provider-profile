@@ -7,4 +7,3 @@
 # 2022 , Bielefeld University Library: Andreas Czerniak, Sabeel Shah
 
 xmlstarlet tr xslt/Provider2RST.xsl ../schemas/schema1.xsd > ../docs/elements.rst 2>> exceptionTR.log
-

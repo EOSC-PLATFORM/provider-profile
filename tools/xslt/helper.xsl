@@ -5,7 +5,7 @@
                 xmlns:xs="http://www.w3.org/2001/XMLSchema">
 <xsl:template name="tableHead">
     <xsl:param name="blockName" />
-.. list-table:: EOSC Catalogue Profile Elements of "<xsl:value-of select="$blockName"/>" block
+.. list-table:: EOSC Profile Elements of "<xsl:value-of select="$blockName"/>" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 

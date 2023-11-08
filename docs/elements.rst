@@ -11,7 +11,7 @@ Provider
 ########
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Basic" block
+.. list-table:: EOSC Profile Elements of "Basic" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -55,7 +55,7 @@ Provider
 ############
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Marketing" block
+.. list-table:: EOSC Profile Elements of "Marketing" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -84,7 +84,7 @@ Provider
 #################
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Classification" block
+.. list-table:: EOSC Profile Elements of "Classification" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -118,7 +118,7 @@ Provider
 ###########
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Location" block
+.. list-table:: EOSC Profile Elements of "Location" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -157,7 +157,7 @@ Provider
 ##########
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Contact" block
+.. list-table:: EOSC Profile Elements of "Contact" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -239,7 +239,7 @@ Provider
 ###########
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Maturity" block
+.. list-table:: EOSC Profile Elements of "Maturity" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -263,7 +263,7 @@ Provider
 ###############
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Dependencies" block
+.. list-table:: EOSC Profile Elements of "Dependencies" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
@@ -297,7 +297,7 @@ Provider
 ########
 
         
-.. list-table:: EOSC Catalogue Profile Elements of "Other" block
+.. list-table:: EOSC Profile Elements of "Other" block
    :widths: 25 50 10 10 10
    :header-rows: 1
 
