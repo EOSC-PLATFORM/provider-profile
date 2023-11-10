@@ -75,8 +75,8 @@ Provider
    * - tags
      - Keywords associated to the Provider to simplify search by relevant keywords.
      - N
-   * - structureType
-     - 
+   * - structureTypes
+     - Defines the Provider structure type (single-sited, distributed, mobile, virtual, etc.). :doc:`Vocabulary <_vocabularies/PROVIDER_STRUCTURE_TYPE>`.
      - N
 
 4. Location
