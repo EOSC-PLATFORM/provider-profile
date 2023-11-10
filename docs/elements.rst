@@ -108,10 +108,10 @@ Provider
      - string
      - 1
      - N
-   * - structureType
-     - 
-     - string
-     - Multiple
+   * - structureTypes
+     - Defines the Provider structure type (single-sited, distributed, mobile, virtual, etc.).
+     - string (:doc:`Vocabulary <_vocabularies/PROVIDER_STRUCTURE_TYPE>`)
+     - 1
      - N
 
 4. Location
