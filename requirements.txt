@@ -1,5 +1,6 @@
-## Python requirements file with packages needed to build the documentation.
+# Defining the exact version will make sure things don't break
 #Sphinx==1.8.2
-#sphinx-rtd-theme
-
+sphinx==5.3.0
+sphinx_rtd_theme==1.1.1
+readthedocs-sphinx-search==0.1.1
 requests~=2.28.1
