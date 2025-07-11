@@ -1,38 +1,5 @@
-EOSC-Profiles for PROVIDER
+EOSC Profile for Organisations (previously referred to as "Providers")
 ==========================
 
-Providers are the organisations responsible for ''providing'' any of the other kinds of resources, 
-and the Provider Profile details the data required to describe each Provider.
+Any organisation responsible/liable for operating and making available an EOSC resource in the EOSC Federation. Typically, these are RPOs, research infrastructures, e-infrastructures, etc.
 
-Accompanying artefacts
-~~~~~~~~~~~~~~~~~~~~~~
-
-* XML Schema1: `<schemas/schema1.xsd>`_
-* XML Schema2: `<schemas/schema2.xsd>`_
-
-The original schema's files are copied from `Madgeek-ARC <https://github.com/madgeek-arc/resource-catalogue/tree/develop/eic-registry-model/src/main/resources>`_ GitHub repository.
-
-Requirements
-~~~~~~~~~~~~
-
-* bash (unix)
-
-  * cp
-  * make
-  * git
-  * xmlstarlet
-
-
-Preparation
-~~~~~~~~~~~
-
-Preparation steps for making the `documentation <https://readthedocs.org/projects/eosc-provider-profile/>`_ at ReadTheDocs web-platform.
-After change the current directory to the clone-dir, execute
-
-:code: make
-
-which fetch the vocabularies from `Vocabulary repository <https://github.com/EOSC-PLATFORM/vocabulary>`_ if not existing.
-To generate an updated version of the documentation, execute following commands:
-
-:code: cd tools
-:code: ./generateRSTFromXSD.sh
