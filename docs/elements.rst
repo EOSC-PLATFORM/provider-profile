@@ -39,7 +39,7 @@ The properties defined in the EOSC Profile for Organisations are:
    * - 
      - country
      - Country of incorporation or Physical location of the Provider or its coordinating centre in the case of distributed, virtual, and mobile providers.
-     - string (Vocabulary)
+     - string (:doc:`Vocabulary <_vocabularies/PROVIDER_HOSTING_LEGAL_ENTITY>`)
      - 1
      - M
    * - 
